@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Querers and Quakers cause at the second hearing. Or, The Quakers antiquering advocate examined: his pleadings found light and weake, his language lewd and railing, his prinicples loose and large. The quaking and entransed faction discovered to be a new branch of an old root, revivied by Satan; some of their strange ungospel-like tenents, unchristian practises, and opinions fathered upon the spirit, to be abhorred, and avoided by all holy soules, are also discovered, and truly laid open.</title>
+         </titleStmt>
+         <extent>Approx. 151KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91589</idno><idno type="EEBO-CITATION">99866170</idno>
+  <idno type="VID">118434</idno>
+  <idno type="EEBO-PROQUEST">2240960260</idno>
+  
+            <idno type="STC">Wing Q163</idno>
+            <idno type="STC">Thomason E697_14</idno>
+            <idno type="STC">ESTC R207098</idno>
+            <idno type="PROQUEST">99866170</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866170e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118434)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 107:E697[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Querers and Quakers cause at the second hearing. Or, The Quakers antiquering advocate examined: his pleadings found light and weake, his language lewd and railing, his prinicples loose and large. The quaking and entransed faction discovered to be a new branch of an old root, revivied by Satan; some of their strange ungospel-like tenents, unchristian practises, and opinions fathered upon the spirit, to be abhorred, and avoided by all holy soules, are also discovered, and truly laid open.</title>
+               </titleStmt>
+               <extent>[4], 57, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.G. for Nath: Brooke, at the Angel in Cornhil,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf.</note>
+                  <note>Annotation on Thomason copy: "May. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Quakers --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118434:1"/>
+            <p>THE QUERERS AND QUAKERS CAUSE AT The second HEARING.</p>
+            <p>OR, <hi>The Quakers Antiquering Advocate examined: his Pleadings found light and weake, his Language lewd and railing, his Principles loose and large.</hi>
+            </p>
+            <p>The Quaking and entransed faction disco<g ref="char:EOLhyphen"/>vered to be a new branch of an old root, revived by Satan; some of their strange ungospel-like tenents, unchristian practises, and opinions fathered upon the Spirit, to be abhorred, and avoided by all holy soules, are also discovered, and truly laid open.</p>
+            <q>
+               <bibl>
+                  <hi>1 JOHN 4.1.</hi>
+               </bibl> Beloved, beleeve not every spirit, but try the spirits, whether they are of God: because many false prophets are gone out into the world.</q>
+            <q>
+               <bibl>Quintilian. in Declamat.</bibl>
+               <hi>Nulli venenum facilius datur, quam qui accipit uti{que} tanquam medica<g ref="char:EOLhyphen"/>mentum.</hi>
+            </q>
+            <q>Poyson is more easily given to no man, then to him that takes it as a wholsome Medicine.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I.G.</hi> for <hi>Nath: Brooke,</hi> at the Angel in Cornhil, 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118434:2"/>
+            <pb facs="tcp:118434:2"/>
+            <head>To the Indifferent and Impartiall READER.</head>
+            <opener>
+               <salute>Good Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y this be pleased to take notice, that some people all over <hi>Yorkshire</hi> being turned Seekers, having turned out prayer, preach<g ref="char:EOLhyphen"/>ing, and the Ordinances of God, and count<g ref="char:EOLhyphen"/>ing them too low things to follow, the Old Seeker,<note place="margin">2 Pet. 5.8.</note> who goes about continually <hi>seeking whom he may devour,</hi> hath falne upon them, and drawn them into ab<g ref="char:EOLhyphen"/>surd, and unreasonable both principles and practices, by running up and down the Country to act in quakings and transes, and drawing many after them to leave Ordinances, Callings, Relations, and despite both Nature and Grace at once. One, piously intending by thirty Quaeries propounded, to warne them that stand, and waken them are falne, to see into what a pitifull pit of errours they are falne, hath beene furiously set upon by an Advocate for them, whom they judge more Schollar, and fitter to answer then themselves. He is a Seeker, but no profest Quaker, but willing to de<g ref="char:EOLhyphen"/>fend any thing save Truth. He hath answered the Quaeries in three sheets with Antiquaeries, which his Admirers com<g ref="char:EOLhyphen"/>mend and extoll as a rare piece, and so it is, as a key-gun is a rare piece of Ordnance to a little boy, if it spit with a little fire and Gunpowder. This indeed hath much of Schoolship and Divinity in it, if Railing be Reasoning and Vanity Di<g ref="char:EOLhyphen"/>vinity. It seemes he waited for an opportunity, and was glad he got it, to blaspheme the Ministery, and preaching of the Gospell in print. He hath done it so fully, that the
+<pb facs="tcp:118434:3"/> Quaerer was loath to answer him, and thought this a suffici<g ref="char:EOLhyphen"/>ent and large enough Answer.<note place="margin">Eccles. 10.13.</note>
+               <hi>The beginning of the words of his mouth is foolishnesse, and the end of his talke mischievous madnesse;</hi> being of this minde, that Reason is worth answering, Absurdities answer themselves. Yet lest the ignorant should crow like Cocks of the game, and Masters of the Pit, they should be hardned in errours, and others by seeming flourishes seduced, a friend to the Quae<g ref="char:EOLhyphen"/>rer hath taken up his defence, in officiousnesse to serve the truth,<note place="margin">Eccles. 7.9.</note> who therefore earnestly desires <hi>rather to have truth and meeknesse rest in his bosome, then that which rests in the bosome of fooles.</hi> If the Antiquaerer shall come a<g ref="char:EOLhyphen"/>gaine, this Replier promises, he shall have leave upon his owne paper stage to wrastle, wrangle, reproach and Scuffle by himselfe. Onely Reader know this, you shall find nothing here relating to these Quakers tenents and doings, but what is true, and will be made good, and from their opinions all from their owne words and papers. All this is done, and the Lord make it effectuall for this purpose; to reclaime wan<g ref="char:EOLhyphen"/>dring soules, to settle staggering soules, to warne all pro<g ref="char:EOLhyphen"/>vident and cautious soules, to looke to themselves and get to be grounded in the truth. For Satan, seeing how weak<g ref="char:EOLhyphen"/>ly and poorely many soules were founded, and built up in the knowledge of Christ and his Gospell, sent out his messengers with this hope.<note place="margin">Nehem. 4.3.</note> That which these ignorant soules so un<g ref="char:EOLhyphen"/>groundedly build, <hi>if a Foxe goe up, he shall even break downe their stone wall.</hi> He hath sent a Foxe, and he hath done it, many are falne being weake, and unwary, and but built upon the sand. Consider the Antiquaerer and the Re<g ref="char:EOLhyphen"/>plies,<note place="margin">Judg. 19.20.</note> let Truth beare the greatest weight, <hi>Umpire and Judge by the Sentence of Truth and word of God,</hi> and this is all that is desired. Consider of it, take advice, and speake your mindes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118434:3"/>
+            <head>The Quaeries being but short, you shall have here the Quaeries, the Anti<g ref="char:EOLhyphen"/>quaeries in each part needfull, and the Reply to them.</head>
+            <div n="1" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> I.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hether they have any other warrant to put themselves into those quaking, and trembling postures, then those generall parts of the word, which commend the working out Salva<g ref="char:EOLhyphen"/>tion with fear and trembling? <hi>Trembling at the word, serv<g ref="char:EOLhyphen"/>ing the Lord with fear, and rejoycing before him with trem<g ref="char:EOLhyphen"/>bling,</hi> &amp;c.</p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>Whether this man, who propounds these Quaeries, speake soberly, or rashly, if not maliciously, of that he understands not, when as he saith in his first Quaerie, they put themselves into quaking and trembling postures? whereas it is a thing, which they cannot avoid and flie from.</p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaerie.</head>
+                     <p>For the Quaeries, whether it were soberly, rashly, maliciously or ignorantly propounded is the Antiqueries demand? I will answer for you, and tell you your judgement such as it is, you meane one Negative and three Affirmatives. Namely, it was not soberly, there is the Negative; but you give him three Affirma<g ref="char:EOLhyphen"/>tive lyes for it, rashly, maliciously, and ignorantly. Here is too much for the Quaerer, I pray you being of the Family of love take some of them to your selfe; and give leave to say, that the Antiquaerer saith many things ignorantly and maliciously also. Here comes in all the rashnesse, ignorance, and malice, that the Quaerer saith, they put themselves into quaking and trembling postures, whereas the Antiquaerer saith, it is a thing they cannot
+<pb n="2" facs="tcp:118434:4"/> avoid or flie from. Why may it not be thought they put them<g ref="char:EOLhyphen"/>selves into these postures and prankes? Have not some of their brethren the false Prophets said, when they Prophesied, they were put upon it by the Lord, by visions and dreames from him, when the Lord neither appeared to them, nor spoke one word to them? <hi>Thus saith the Lord of hostes,</hi> (concerning the false Prophets) <hi>Hearken not unto the words of the prophets that prophesie unto you:</hi>
+                        <note place="margin">Jerem. 23.16.</note>
+                        <hi>they make you vaine, they speake a vision of their owne heart, and not out of the mouth of the Lord.</hi>
+                        <note place="margin">Jer. 23.25, 26.</note>
+                        <hi>I have heard what the prophets said, that prophesie lies in my name, saying, I have dreamed, I have dreamed, —yea they are Prophets of the deceit of their owne heart.</hi> Have the pride, vanity and delusions of their spirits got such a power over them, as it is turned into a holy rage and violence, and they cannot avoid it, or flie from it? I have more charity, Mr. <hi>Advo<g ref="char:EOLhyphen"/>cate,</hi> for them then you, you say they cannot avoid it, I say they will not avoid it; For they thinke it is the divine inspiration, (though it be meere delusion) and they will not though they could avoid it, for they judge that were resisting of high mo<g ref="char:EOLhyphen"/>tions. But whom shall we believe in this businesse, you or them? you say, they cannot avoid it, you never quaked nor played a Transers part, you cannot tell, yea but they tell you so. Know you not that many Clients make bad causes good to their Advo<g ref="char:EOLhyphen"/>cates, till they come to be pleaded and witnessed publiquely, and then the Advocate is ashamed of his Clients and his cause? Now that you may know something from the Ancient Traders in this way, for it is an old Love lock cut off from Satans head, and now growing into fashion againe, I shall relate you what of old was practised in this kinde, and judge whether it were not likely to be more voluntarie, then violent and enforced, it is from the relation of holy <hi>Zuinglius,</hi> when the Church of <hi>Zurick</hi> was ex<g ref="char:EOLhyphen"/>treamly pestred with these <hi>Catabaptistick, Extatick, Enthusiasts;</hi> There was (saith he) among the <hi>Catabaptists</hi> at <hi>Sangall,</hi> a young wench of twelve yeares old, or somewhat upward, the daughter of a right minded Father.<note place="margin">Zuing. <hi>Ep. l. 2.</hi> in Elench. ad ver. Catabapt.</note> He being about going abroad to car<g ref="char:EOLhyphen"/>ry forth Corne, for his calling was that way, his daughter ad<g ref="char:EOLhyphen"/>vised him to stay that day at home, and he should see wonder<g ref="char:EOLhyphen"/>full things. Some while after the wilie girle falls into her Transe, lies as it were in an extasie, and when she comes out, she babbled
+<pb n="3" facs="tcp:118434:4"/> any fanaticall vaine thing as she saw good. His Observation, I meane <hi>Zuinglius,</hi> upon it is this; you see, saith he, she knew be<g ref="char:EOLhyphen"/>fore hand when she should fall; And the reason why she fell not before, when she saw her Father about to goe forth, was, she was not yet fully instructed and taught, she waited for some thing that she further needed to fit her for her busi<g ref="char:EOLhyphen"/>nesse.</p>
+                     <p>And further he saith, as one that knew it, that they used to cast themselves suddenly downe, as if they were Epileptick, taken with the falling sicknesse, holding their breath in as long as ever they can, and faining themselves to be in an extasie, give a feare<g ref="char:EOLhyphen"/>full appearance to them that looke on them, and then comming out, as if they were awakened, they tell you strange things they have both seen and learnt. Judge now whether ours be not as like to these, as Egge to Egge. Holy men, that saw them, judged there was no force, but faining; no violence▪ but what was from their owne voluntary contrivance and collusion. Besides, ours tell us, when they come out of their fits, no strange things, but what they commonly said before, Repent, Repent, woe, woe, or the day of wrath is comming against such and such, &amp;c. With<g ref="char:EOLhyphen"/>all, it is, or may be knowne to you and others, that they are sel<g ref="char:EOLhyphen"/>dome or never entransed in their Extaticall Quakings, but be<g ref="char:EOLhyphen"/>fore others and in company, because the speech at the end of their quaking, is the maine end of their quaking, by it to perswade a Divinity is upon them to their credulous Auditors and specta<g ref="char:EOLhyphen"/>tors. Lastly, I could answer you, you doe like a corrupt Advo<g ref="char:EOLhyphen"/>cate flatter your Client in a bad cause, and put fairest glosses and colours upon it, when the cause is not good; and if it were as you say, that they were forced, it is so much the worse, and is more like the raptures that the Priests of <hi>Apollo,</hi> and other de<g ref="char:EOLhyphen"/>liverers of Oracles of the Devils were taken with, and were vio<g ref="char:EOLhyphen"/>lently forced to doe and speake as they did, and could not avoid it.<note place="margin">Peucer. in Com<g ref="char:EOLhyphen"/>mentar. de Di<g ref="char:EOLhyphen"/>vinat. Genereb. praecip. Tit. de Orac.</note> Yea <hi>Apollo</hi>'s she Priests first drunke of a water in a secret place of the Temple, and after the draught they were enforced into a fit of prophesying. Though I say nothing in comparison to it of your womans bottle, not troubling my selfe to seeke out that, which has beene witnessed by some. The water, the Pythi<g ref="char:EOLhyphen"/>an she Priests drunke off, was such a water, as would quench
+<pb n="4" facs="tcp:118434:5"/> burning brands or tapers, being held neere to it, and being held a good way off would kindle and light them againe being quencht. And it is well knowne that in a strange enforced rapture or fury all the devilish Priests delivered the Oracles. So that it is little for their credit, that you say they are enforced, your defence is offensive to their way for the credit and Divineness of it. When they gave out answers they did it with an horrible sound &amp; noyse, they were furiously acted and moved, there was trembling and palpitation of all their joynts. Thus did not the prophets of God undergoe a like violence in their visions, and divine occur<g ref="char:EOLhyphen"/>rencies.</p>
+                     <p>Tell us of lesse violence and force in yours, and we shall thinke more softly of it: but if you say it is enforced, you will force us into a suspicion of it.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="query">
+               <head>
+                  <hi>QƲERE</hi> II.</head>
+               <p>Whether when holy trembling and feare is commended in Scriptures, there be meant any other ordinarily, then the Spirituall and holy dread in the soule, to stand in awe of God, repent before him, and to walk humbly with the Lord?</p>
+               <div type="counter-question">
+                  <head>Antiquer. Replie.</head>
+                  <p>Why dost thou put in the word <hi>Ordinarily?</hi> It seemes thou thy self darest not exclude an extraordinary trembling, to be comprehended in those scriptures; and if it be comprehended at all in any of them, it is sufficient, <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <head>Replie to Antiquer.</head>
+                     <p>There was Reason to put in the word <hi>Ordinarily,</hi> because Ex<g ref="char:EOLhyphen"/>traordinary things fall not under Rule; nor common practise But quaking with noyse and strange motions is ordinary with the people that worship your strong imaginations▪ I had almost said, that have sent upon them strong delusions to believe lies. Yet you are resolved on it, if the Scripture speake of any extraordi<g ref="char:EOLhyphen"/>nary tremblings; it is enough to justifie yours. Now sute Master <hi>Advocate</hi> you have not <hi>Littleton</hi> for this, and Scripture will not serve you to justifie it. If it be comprehended in any, you say it serves.<note place="margin">Sam. 19.15.</note> I perceive any thing will serve you. Will this serve you? <hi>There was a trembling in the hoste of the Philistims they trembled and quaked and it was a very great trembling, or as trembling of God.</hi> I judge this will not serve you, though comprehended in
+<pb n="5" facs="tcp:118434:5"/> Scriptures, for this was an extraordinary quaking sent upon the <hi>Philistims</hi> and not upon <hi>Israel,</hi> you would not have your Clients taken for <hi>Philistims.</hi> I shall come to your minde, in those Scri<g ref="char:EOLhyphen"/>ptures, that is, in those mentioned in the Quaere, and where trembling is not onely comprehended but commended. Well, in those Scriptures of <hi>standing in awe, Psal.</hi> 4. <hi>Repenting before the Lord and walk humbly with God, Mic.</hi> 6. I doe not conceive there is commended or comprehended any extraordinary trembling, but what is or should be ordinary in every holy soule, that is of a meeke, melting, humble, holy spirit, that feares the Lord and his goodnesse. You will hardly have Rhetorique enough to per<g ref="char:EOLhyphen"/>swade any solid Christians, that if they will doe as all former Saints did, <hi>stand in awe of God, and walke humbly with the Lord,</hi> they must needes turne into entransings and quakings. Doe not you know, that the feare and holy awe of the soule was as well, and better evidenced by studying to observe Gods commands, and to depart from evill, then by any wrestings or wringings of the body into Antique appearances? Then you tell us that some of the servants of God have beene shaken, as if all their bones were out of joynt, and made to roare, and that is sufficient to prove it, because <hi>David,</hi> though a strong one,<note place="margin">Zach. 12.8.</note> was a type of the weake ones, and you say, <hi>he that is weake shall be as David. Davids</hi> bones being as it were out of joynt, his being shaken and his roaring, if you doe not, others understand it thus, that by these phrases expressing paine and trouble in the body, is not meant any other then the fearefull and sad state of his troubled soule, by apprehending the grievousnesse of Gods anger against him for sinne, the heavy evill of Gods clouding his face, and hiding the joy of his salvation from him. His roaring was his earnestnesse of praying, calling, sighing after God. He perhaps might not speake one word, when he sometimes roared unto God, for the earnest and holy applyings of the troubled soule to God, by humble, penitent, believing sighs and groanes are roarings,<note place="margin">Exod. 14.15.</note> and better then loudest cries in Gods eares. <hi>The Lord said to</hi> Moses, <hi>why cryest thou to me?</hi> We heare not of his crying, but we are sure his soule cryed and roared with the high language of faith, and earnest, zealous, secret and spirituall pleadings with God,<note place="margin">1 Sam. 1.</note> better then all words. <hi>So Hanah spoke in her heart to the Lord,</hi> and
+<pb n="6" facs="tcp:118434:6"/>
+                        <hi>yet the Lord heard it. David</hi> may mention his roaring to God, when he spoke it may be in a word: and his bones being all as it were out of joint and shaken, when the body shewed no outward motion, but it was the commotion and trouble of his distempered soule and spirit. For that Scripture of <hi>Zacharie, The weake shall be as David▪</hi> applied unto <hi>Davids</hi> quaking and roaring, it is a childs arrow shot without aiming at any marke, or a wrong marke. Indeed when God hides his face from weake soules, they shall be sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ken and troubled in their spirits, as <hi>David</hi> was, in some measure. But what is this to falling on the ground and quaking? you may abuse other things with lesse guilt then abuse the Scripture. Let me set you right here with<g ref="char:EOLhyphen"/>out any abusing you, or the prophet <hi>Zacharie.</hi> The meaning of this is, <hi>the weak shall be as David,</hi> that is, when God shall visit his Church with grace and mercy, and they shall repent and turne to him, he will blesse them all, and make the weake soules that had falne, upon their repentance, rise up with as much cou<g ref="char:EOLhyphen"/>rage, joy, and spirituall strength to walke in the service of the Lord, as <hi>David</hi> did. He will not onely shew mercy to the strong ones, but he will protect the weak ones also, and make them strong in faith and comforts of faith, as <hi>David</hi> was.</p>
+                     <p>
+                        <note place="margin">Esay 2.4.12, 13 Esay 23.9. Esay 2.18.19, 20, 21.</note>The rest that you have in the Antiquerie are but flourishes of swords you speake <hi>beaten into plough shares; of every one that is high and lifted up to be brought low, the Honourable brought to con<g ref="char:EOLhyphen"/>tempt: Idols of silver and gold cast to Moles and Bats for feare of the Lord and glory of his Majestie, when he arises to shake terribly the earth.</hi> Do you thinke all the overturnings of Kingdomes, People, places threatned in Scripture are proofes and arguments with an <hi>Ergo,</hi> we must fall into a Transe after this manner? It is a good Argument, since God will so exalt his power and ju<g ref="char:EOLhyphen"/>stice against sinners, therefore we ought to search and try our waies and turne unto him; since God comes to humble and bring downe all that is proud and high. If I were a Preacher, with your leave I would make this use of it: Let us humble our selves by repentance and seeke to the Lord for mercy, that when he comes to humble all the lofty of the earth, he may finde us kindely and rightly humble to his hand. This humbling and turning penitents, may be, I judge, without turning Quakers.
+<pb n="7" facs="tcp:118434:6"/> —At last you tell us, these things are foretold, &amp; must come to pass, &amp; how shall they be Ordinary when they seldome, or never were before? — What doe you meane? Were the Honourable of the earth never humbled before? Did the Lord never shake the earth before? There have beene great alterations in Church and State before your time and mine. God has heretofore poured out the fury of warre, plagues, famines, depopulations, and strong judgements in the dayes of our Ancestors, yea from the be<g ref="char:EOLhyphen"/>ginning of the world. Are you in a Transe too, that you say these were seldome or never before, and then how should they be Ordinary? I pray consider your selfe, and minde what you write; if this be believed by you, your judgement is but very ordinary, and theirs so too that depend upon it.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="3" type="query">
+               <head>
+                  <hi>QƲERE</hi> III.</head>
+               <p>Whether it were Ordinary in the Old and New Testament for the holy Servants of God to quake, be entransed, make strange noyses, shew strange swellings and stirrings of the body, as if they were possest with some spirit?</p>
+               <div type="counter-question">
+                  <head>Antiquerie.</head>
+                  <p>Whether dost not thou render this worke under as odious termes as thou canst, to enrage every one against them, upon whom it falls? — Was not roaring and mourning like Doves strange noyses? Was not <hi>Peter</hi> entransed, and <hi>Paul</hi> rapt up, and <hi>John</hi> caught up in the spirit higher and higher, to heare and see the mysteries of God opened? And yet thou darest revile the dealings of the Lord with his Ser<g ref="char:EOLhyphen"/>vants.</p>
+                  <div type="reply">
+                     <head>Replie to the Antiquerie.</head>
+                     <p>There are no odious termes put upon this worke, but such as are the lively and naturall representations of the actions them<g ref="char:EOLhyphen"/>selves: for are they not seene accompanied with quakings, swellings and stirrings of the body? you are pleased to make a second stumble at the word (Ordinary) which was spoken to a<g ref="char:EOLhyphen"/>bove, and it may well be used in the Querie, because <hi>Peters</hi> en<g ref="char:EOLhyphen"/>transing, and <hi>Pauls</hi> falling to the earth astonished, and such like, were extraordinary, and so cannot fall under such ordinary and common expectation, as to let every one of your way looke for it. For roaring and mourning like Doves, you aske if these were not strange noyses? I answer as before, it was more in the in<g ref="char:EOLhyphen"/>ward
+<pb n="8" facs="tcp:118434:7"/> passionate desires, and sighing of the soule complaining secretly to God, then any outward noyse from the body. Act<g ref="char:EOLhyphen"/>ings of the soul commonly are set out by borrowing expressions from the body and other creatures, as <hi>mourning like Doves, chattering like Cranes.</hi>
+                     </p>
+                     <p>At last you write such things as I wonder you quake not so to abuse Scripture, and apply the Lords dealings with some of his Saints, to the trembling and odde fits of your deceived Proselytes. What a base comparison is this, to compare <hi>Peters entransing, Pauls being rapt up into Heaven, Johns being taken up in the Spirit,</hi> to those unspirit like actions &amp; passions of men &amp; women lying upon the ground, or throwing themselves upon a bed? O the blindnesse of a man set and bent to maintaine fancies! <hi>Peters</hi> was a supernaturall and extraordinary case, when he was called by a Vision from God to turne in to the Gentiles. <hi>In the Vision there was the opening of the Heavens shewed to him, a sheet let down as it were from Heaven,</hi>
+                        <note place="margin">Act. 20.11, 12, &amp;c.</note>
+                        <hi>a voice from Heaven calling upon him, and the spirit telling him, that three men were seeking him;</hi> and besides all this, <hi>Peter</hi> was seeking God by prayer. We know no voyce yours have from Heaven, no vision but of their owne braine, no extraordinary businesse that they are called to more then others, and for prayer and the Ordinances they may lye for ever in a Transe, they use them not, unlesse it be as you use the Scri<g ref="char:EOLhyphen"/>ptures here, to wrong and abuse them. Then <hi>Pauls being wrapt up into Heaven,</hi>
+                        <note place="margin">2 Cor. 12.</note> must be a patterne for their being rapt downe to the earth. Feare you not thus to wrest and wring the holy Scriptures of God, to give an Heavenly passe to your wretched follies, the vile froth of seduced hearts? The Lord open your eyes to see how unworthily you deale with his sacred writings. I appeale to any that hath any savoury knowledge or taste of the things of the word of God, whether <hi>Pauls being wrapt up into Heaven, into Paradise,</hi> have any similitude or likenesse to these strange lyings of divers men and women, heads and points upon the earth, unlesse they thinke there is nothing liker Heaven then this. <hi>Johns being caught up in the Spirit</hi> must be brought in too, for these they tell us, see mysteries, yea and so see we too, the mystery of Familisme in you, or the mystery of strong delusions, the mysteries of a spirit of giddinesse. But Sir, you defend them
+<pb n="9" facs="tcp:118434:7"/> not well enough, they have in their writings set us downe a great many Scriptures, wherein they finde quaking and trembling bet<g ref="char:EOLhyphen"/>ter then these you bring by the head and shoulders. <hi>David</hi> said,<note place="margin">Psal. 119.120.</note>
+                        <hi>My flesh trembleth for fear of thee, and I am afraid of thy Judge<g ref="char:EOLhyphen"/>ments. Paul trembled, Acts</hi> 9. we heare of <hi>Habakkucks</hi> trembling,<note place="margin">Acts 9. Habak. 3. Heb. 12.</note>
+                        <hi>Moses</hi> his feare and quaking, and many others. And their infe<g ref="char:EOLhyphen"/>rence is this, thererefore <hi>Moses, Habakkuck, David, Paul,</hi> were all patrons of the quakers. Nay, they tell us,<note place="margin">Phil. 2.12.</note>
+                        <hi>we are bid to worke out our Salvation with feare and trembling,</hi> and therefore all are to quake: and if this be not good Logick, aske <hi>Thomas Aldam,</hi> surely it makes but odde Divinity, this to squeeze and presse the Scriptures. I could shew you how in this you deale with the word of God, as the <hi>Alchymists</hi> doe,<note place="margin">Quantum Astre<g ref="char:EOLhyphen"/>nomi metiuntur, tantum Astro<g ref="char:EOLhyphen"/>logi mentiuntur <hi>Marcil. Fici<g ref="char:EOLhyphen"/>nus.</hi>
+                        </note> who bring a great many Scriptures to prove the <hi>Phylosophers</hi> stone, and the seeking for it. Thus <hi>Astrologers</hi> who oft-times make lyes heavenly wide, bring Scriptures to patronize reading all things in the <hi>Stars</hi> and <hi>Planets.</hi> God gave these holy writings to shine and leade us into light, not to carry us into darknesse, and not to bend and bow them to our owne darke ends.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="4" type="query">
+               <head>
+                  <hi>QƲAERE</hi> IV.</head>
+               <p>Whether if they heap up all Scriptures, that mention trembling and qua<g ref="char:EOLhyphen"/>king, they may not put in this also, <hi>the Devils beleeve and tremble?</hi>
+               </p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>Whether this discover not an heart filled with maliciousnesse and indignation? <hi>For out of the abundance of the heart the mouth speaketh.</hi> And secondly, whether this be not a Contradiction to the <hi>14.</hi> Quaere, where thou sayest they make nothing of the outward Com<g ref="char:EOLhyphen"/>mand of the word?</p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaerie.</head>
+                     <p>It may be the Quaerers heart was full of Indignation, and so is mine too against such strange injurers of the spirit of God, and word of God, that none da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e bring Scriptures, as the Devill quoted one place, to perswade Christ to breake his neck by Scri<g ref="char:EOLhyphen"/>pture. The Quaerer may keepe his holy Indignation, and leave the unholy maliciousnesse to you.<note place="margin">2 Cor. 7.11. Esay 66.14.</note> For there may be indignation without malice, as to Saints, &amp; to God himself acts of indignation are sometimes assigned. For that of the Devills beleeving and trembling it should not seeme strange to you, whose principles
+<pb n="10" facs="tcp:118434:8"/> are so large and comprehensive, as you have beene ready not only to have been an Advocate for the Quakers, but an Advocate for the Devills also to plead for them &amp; their salvation. For your people bragging all over, you are the Author of these Antiquaeries, may heare this also or reade it, that you are ready to prove not onely saveablenesse, but that the lost Ang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lls shall be saved. What strange thing should you make it then, that the Quaerer tells you the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vills beleeving and trembling might be brought in, with trembling also of Men and Women that shall be saved? You know this well can be made good by divers witnesses, that you alledged Scripture to prove it, and as strange a Scripture for that purpose as might be. This is your Gospell or glad tydings for the falne Angells in <hi>Zacharie. As for thee also by the blood of the Covenant,</hi>
+                        <note place="margin">Zach 9.11.</note>
+                        <hi>I have sent forth thy Prisoners out of the pit wherein is no water.</hi> I never heard that this was the Devills Gospel before, but I perceive Seekers find unsound things to pitch upon, rather then truth. Any that have but ordinary inspection into the Bible will tell you, that these prisoners of hope are the <hi>Jews,</hi> that the pit without water is the <hi>Babylonian Captivity,</hi> and that the blood of the Covenant is the blood of Christ shadowed out by the blood of the Sacrifices, <hi>Exod.</hi> 24.8. <hi>Heb.</hi> 13.20. And that Christs blood was shed for them from whom he tooke fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sh and blood. Now he took not on him the nature of Angells, but he took on him the seed of <hi>Abraham,</hi>
+                        <note place="margin">Heb 2.14.</note> and this was, <hi>since the children are partakers of flesh and blood to save them and to destroy through death him that had the power of death, that is, the Devil.</hi> Destroying is a contrary way to saving. I would not have you write commentaries on Scripture, for you would in <hi>Zacharie</hi> make the Devills Saints, such as should be saved, or else you would make the <hi>Jews</hi> Devills, and <hi>Baby<g ref="char:EOLhyphen"/>lons</hi> captivity Hell. I could have told you of many Scriptures fitter to your purpose,<note place="margin">Mark. 16.15.</note> with far better colour. As that, <hi>preach the Gospell to every creature,</hi> if to every creature, then to falne Angels, for they are creatures. Yet this would prove very weake to any solid soule, it may serve with jeat judgements, that draw chaffe and light strawes to them. Those that heare of the right hands <hi>Venite</hi> into everlasting life, have reason to judge that the left hands <hi>Ite into everlasting fire</hi> is equally everlasting with it,<note place="margin">Mat. 25.46.</note> and with<g ref="char:EOLhyphen"/>out end. Make you not that long lasting onely which God makes
+<pb n="11" facs="tcp:118434:8"/> everlasting. This is onely by the way, to shew your squeamish stomack at this of bringing in the Devils beleeving and trembling, when your selfe well knowes this will be justified to your face as your Orthodoxe opinion, you thinke after some time the Devills sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll be saved. You may set downe the time, but the Scri<g ref="char:EOLhyphen"/>ptures and Oracles of God set downe none.</p>
+                     <p>The last thing in your Antiquaerie is this, that this seemes to be the Quaerers contradiction of himselfe, who in his 14. Quaere saith, the Quakers make nothing of the outward Command of the word. You will doe well, if you will consider these words a litle better, Advocates had need to be advised lest they over<g ref="char:EOLhyphen"/>shoote themselves. <hi>The Devills beleeve and tremble,</hi> doe these words carry the nature of a command? is there any command or precept in them? Doth God command, or <hi>James</hi> command any thing by this? It is a plaine proposition, or assertion of the sad state of the Devils, <hi>that they beleeve but it is a wofull beleefe full of appli<g ref="char:EOLhyphen"/>cation of eternal discomfort &amp; undergoing of Gods wrath.</hi> Many things are in the written word that are not commands of God, some of them are words of the Devill, as <hi>All these things will I give thee, if thou wilt fall downe and worship me.</hi> This is to waken you, having an adversary, to looke and examine what you write; you take advantage where it is not given you, others will take advan<g ref="char:EOLhyphen"/>tage, yea though in a good cause, much more will advantage be taken when one deals in a bad cause.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="5" type="query">
+               <head>
+                  <hi>QƲAERE</hi> V.</head>
+               <p>Whether the Spirit, that this people are led by, be a good Spirit, because they are led into disorders? but Gods Spirit is a Spirit of Order.</p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>Whether to assemble together in a peaceable, harmelesse way, be disorder? Whether did Christ or any of the Apostles judge the flock<g ref="char:EOLhyphen"/>ing together of the people after truth to be disorder, though the world counted it a turning of all upside downe?</p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaery.</head>
+                     <p>No great adoe shall we make here for answer. For some of yours I shall passe over briefly, as having little matter in them worth answering; your peoples assembling is said to be in a peaceable, harmlesse way, and therefore cannot be disorder, you say so, it is not so. Is this a peaceable and harmlesse way for a
+<pb n="12" facs="tcp:118434:9"/> man to leave his wife and children, to run about, and let them shift for themselves? Or is this a peaceable and harmlesse way for Wives to leave their Husbands against their wills? you know there were women at the Assizes accused for this, the leaving their Husbands, and they professed they would doe it. I perceive any thing is peaceable and harmlesse that sets up this running trade any way. I thought this had been disorder, that any should voluntarily leap out of that calling, and breake off that Relation God had set &amp; fixt them in, and this should be done of their own heads, and with much headinesse. I thought this had been dis<g ref="char:EOLhyphen"/>order to stand up in orderly Assemblyes of Gods people, to in<g ref="char:EOLhyphen"/>terrupt Ministers and teachers of the word of God. For the rest I am ashamed of the comparison, that you should say Christ and his Apostles never blamed the people for flocking after the truth, they had no reason to doe it. But what if they had done as these, flocked after dotages and errours, would they not have blamed them? yes, sure I am. Do these that despise and raile at preach<g ref="char:EOLhyphen"/>ing of the Gospell, Baptisme, Supper, &amp;c. doe these flock after truth? I will have none of that truth that despises the word of truth.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="6" type="query">
+               <head>
+                  <hi>QƲAERE</hi> VI.</head>
+               <p>Whether they have not the word of God as a shadow, when they make it stand by at their pleasure? As when the man will leave the Wife, or Wife the Husband to follow their Circumcellion walkes and roving about.</p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>Whether doth Christ plainly put his servants sometimes upon for<g ref="char:EOLhyphen"/>saking all for his sake, <hi>Houses, Brethren, Sisters, Father, Mother, Wife, Children, Lands? Mat. 19.29.</hi>— And for the word <hi>Cir<g ref="char:EOLhyphen"/>cumcellion,</hi> why dost thou use a dark word so improperly? which of them are Alehouse or Taverne-hanters?</p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaery.</head>
+                     <p>Two things I have to say to the first part of forsaking all for Christs sake. First, that it is possible there may be a forsaking of all for Christ, without any locall secession, or breaking from the soci<g ref="char:EOLhyphen"/>ety of Husband, Wife, Children, &amp;c. The excellentest part of forsa<g ref="char:EOLhyphen"/>king is in the heart, and acted about the affections &amp; will, wholly given up to Christ, though outward callings and actions be still used. Secondly, that this new kinde of forsaking all hath no
+<pb n="13" facs="tcp:118434:9"/> more likenesse of doing it for Christ, then <hi>London</hi> is like <hi>Constan<g ref="char:EOLhyphen"/>tinople,</hi> or your Towne is like <hi>Mexico.</hi> For this you call a for<g ref="char:EOLhyphen"/>saking all for Christ, is but a changing of the objects of your pleasures, and changing for a fancies sake, not for faiths sake. If you be a Seeker, you may seeke long enough, ere you can make their practises agree with Christs Rule. (I passe by your generall charge against the Querer, you being <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, an evill speaker and slanderer in it, and there being no appearance of any thing but unlearned passions) then you come to the word <hi>Circumcellion,</hi> and aske the Querer why he uses such a darke word so im<g ref="char:EOLhyphen"/>properly? which of these he blames are Ale-house or Taverne-haunters?</p>
+                     <p>For this word Circumcellion, which you call a darke word, I shall inlighten the darknesse of it to you; I pitty your Scholler<g ref="char:EOLhyphen"/>sh p is so dimme and duskie, that you know not what it meanes; I dare not tell you, that had you stept but a litle into <hi>Austin,</hi> one of the learnedst and most considerable African Christians, you might easily have plowed with his heifer, and knowne it. Circum<g ref="char:EOLhyphen"/>cellions were a branch of the sect of the Donatists, but that may be a darke word to you also. The Donatists were a sect in <hi>Africa</hi> like your Perfectists and Quakers, that held the Church was no where but among them, they were pure without spot and wrinkle, the best must be Baptized againe, that joyne with them; all were sinners and unclean but they. They slandered, and to their power persecuted all that went not their way; you know who doth so. They held none were to be urged by any authority and power to live well, but to use their owne liberty or licence rather: Magistrates with them were not to meddle with Hereticks by any acts of coercion, &amp; divers other <hi>deliriums</hi> they maintained. Among them were some called <hi>Circumcelliones,</hi> the busiest, boldest, and the seditiousest sort of them, running about and watching opportuni<g ref="char:EOLhyphen"/>ties, where they were strong enough, to speak all evill, and deale blowes and wounds to them were not of their cut. And be<g ref="char:EOLhyphen"/>cause as in a winters night, you crie hang out a light, by the sound of the word Circumcellions, presently dreaming of a dark Wine-cellar, or some blinde Ale-house; I shall quit you of that suspicion. They were so called from certaine Cells and little Cottages they had in the fields, in which they would give appea<g ref="char:EOLhyphen"/>rance
+<pb n="14" facs="tcp:118434:10"/> of their living an austere,<note place="margin">
+                           <hi>Genus homi<g ref="char:EOLhyphen"/>num agreate &amp; famofissimae au<g ref="char:EOLhyphen"/>daeiae.</hi> Aug. de Haeres. ad Quod vult deum. c. 99.</note> rigid, and solitarie life, though thence they runne out, and meeting those that bowed not to their imaginations; they beat, robb'd, wounded and killed some. <hi>Sir,</hi> Circumcellions I called yours, for running far from home, roving about, and interrupting Ministers, and Assemblies of people, orderly abiding in the worship of God, threatning, cur<g ref="char:EOLhyphen"/>sing, and giving bitter language. You may read enough of these other in <hi>Austins</hi> Epistles; and in <hi>Optatus</hi> you shall finde that these roaring Sectaries running about,<note place="margin">Circumeellic<g ref="char:EOLhyphen"/>num insani du<g ref="char:EOLhyphen"/>ces nominabant se Sanctorum Duces. <hi>Optat. contra. Parme<g ref="char:EOLhyphen"/>nian. lib. 3.</hi>
+                        </note> called their Ringleaders, the Leaders and Captaines of the Saints. I know your Clients thinke the Leaders of them taller then any we count Saints, by the head and shoulders. I shall leave this Antiquerie with this, though they be not Taverne and Ale-house haunters, yet they may be as bad, being drunke and quite typsie in Satans cellar with pride, conceit of perfection, censuring and damning all others, busie-bodies, turbulent, so as that may be applyed to them.<note place="margin">Esay 29.9.</note>
+                        <hi>They are drunke, but not with wine:</hi> Since Circumcellion so stumble you, I am sure our Antiquerer is no Antiquarie, unlesse it be in defending old errours, and yet he thinkes it new light.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="7" type="query">
+               <head>
+                  <hi>QƲERE</hi> VII.</head>
+               <p>Whether the Apostle is to be justified in saying, <hi>Let every one abide in his owne calling, in so doing he abideth with God;</hi> or those parties are to be justified more, that leave their callings and families, and take up the trade of the spirit, that runs about and compasses the earth?</p>
+               <div type="counter-question">
+                  <head>Antiquer.</head>
+                  <p>Whether the thousands of Believers spoken of in the <hi>Acts of the Apostles,</hi> did not abide in that calling wherewith they were called of God, although they sold up what they had, and lived together? And if these should doe so, whether doth this man know they doe not abide in that calling to which they are called of God?</p>
+                  <div type="reply">
+                     <head>Replie to Antiquerie.</head>
+                     <p>First I will give you answer to this part of your plea. Those in the Acts did abide in their callings, did not run away from wives and children, did not leave their debts unpaid to betake them<g ref="char:EOLhyphen"/>selves to that holy way of living together for a while, did not cease living in some honest exercise; prove you the contrary if you can. For that they sold up what they had and lived together,
+<pb n="15" facs="tcp:118434:10"/> when we know what you will make of this, I shall thinke you worthy an answer. If you drive at community, that place of the Acts will not serve you. Yours selling up their goods to that purpose we see not, but some we see very willing to live upon others. At length you come to an If, if these should do so, whether doth this man know, <hi>&amp;c.</hi> Good <hi>Sir,</hi> stop there, for this Man might tell you he knowes two things. 1. He knowes these do not so, nay they are far from doing like to the primitive Christians as yet. 2. He knowes againe that they now walke ir<g ref="char:EOLhyphen"/>regularly, and out of their callings.</p>
+                     <p>First, they do not so as the former did, for besides communi<g ref="char:EOLhyphen"/>cating <milestone type="tcpmilestone" unit="unspecified" n="1"/> of their goods and supplies to their brethrens necessities, <hi>they continued daily with one accord in the Temple,</hi>
+                        <note place="margin">Acts 2.46, 47.</note> these neither can endure the place of Gods publique worship, nor those that use it. <hi>They praised God, and had favour with all the people, and did eate their bread with gladnesse and singlenesse of heart.</hi> We heare nothing of your mens strange prankes among them. I know your minde, you would have all common. But you are deceived in that point, for those rare Saints at first entertaining of the Go<g ref="char:EOLhyphen"/>spell, though they had large charity to relieve the wanting, yet might keepe propriety and distribute as they would, they might sell a part, and keepe a part for themselves, unlesse they pub<g ref="char:EOLhyphen"/>likely promised and devoted all they had that way, as may be seene in the case of <hi>Ananias.</hi> Ours need not to doe so, the Apo<g ref="char:EOLhyphen"/>stles gave no such Doctrine to the Churches of the <hi>Gentiles,</hi> but to love, relieve, and succour one another. If without this Com<g ref="char:EOLhyphen"/>munion you would have no Apostolicall Church, then the Apo<g ref="char:EOLhyphen"/>stles rightly planted no Churches, for they planted none as you meane in this Community of goods, when the Church and Gospel spread after the first beginnings, but Christians possessed houses, and goods, and servants of their owne, or else what need <hi>Paul</hi> tell of collections? we heare of <hi>Tabitha,</hi> she had an house, riches,<note place="margin">1 Cor. 16. Acts 9.</note> and gave great Almes. We heare of the Saints at <hi>Antioch,</hi> ma<g ref="char:EOLhyphen"/>king large contributions, to the beleevers at want in <hi>Jerusalem</hi> and <hi>Judea.</hi>
+                     </p>
+                     <p>Secondly, he knowes yours walke irregularly. For whereas one <milestone type="tcpmilestone" unit="unspecified" n="2"/> should live in the East, he neglects Wife, Children, calling, and roaving in the West. Others of the West are roaving in the East:
+<pb n="16" facs="tcp:118434:11"/> and whereas they are fitted by God for some mechannick cal<g ref="char:EOLhyphen"/>lings, they must needs turne preachers, for they are learned in two great bookes, <hi>Ignorance</hi> and <hi>Impudence.</hi> God never calls these thus.—The rest that you talke and write, is like a man in a dreame, of some denying themselves riches, pleasures, honours, and of others that wrest the Scriptures; shew us yours denying riches, pleasures, honours wholly and holily, they doe neither this way. Shew us who wrest Scriptures more then your selfe and yours. Shew us one Scripture wrested, and you shall have either satisfaction, or confession, or both.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="8" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> VIII.</head>
+               <p>Whether they walk according to the rule, <hi>Whatsoever ye would that men should doe to you, &amp;c.</hi> when they leave houses, sell up their goods, and make their Creditors lose many and great debts, &amp;c.</p>
+               <div type="counter-question">
+                  <head>The Antiquery.</head>
+                  <p>Whether dost not thou rather break that rule when thou wouldest enrage and stir up people and Magistrates, and all to swallow them up and make an end of them?</p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaery.</head>
+                     <p>I shall quickly make an end of this, people and M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gistrates by the rule of Verity and Charity, may be stirred up to take heede of these, and hinder their spreading; and though not to make an end of the persons, or to swallow them up, yet to helpe to the making an end, and swallowing up of their errours, then to let them alone, and let them be swallowed downe.—There is something else but of quaering and questioning, whether the Quaerer doe not break the rule himselfe? I tell you in this he doth not, but I passe it, for it is a begger very worthie of a passe. Then you come, But whether dost thou know any of them to make no conscience of defrauding their Creditors? I know but some of them saith our Antiquaerer, and I know they make Conscience to discharge their debts to their powers. You bring to my minde how Advocates agree at a breakfast,<note place="margin">Correctio tollit id quod dictum est, &amp; pro eo, quod magis ido<g ref="char:EOLhyphen"/>neum videtur reponit. <hi>Voss. in Institut. Orator. l. 5.</hi>
+                        </note> though they fall out in the Court. You say, dost thou know any? yes if you will, the Quaerer will helpe me, and you too with their Names, that leave their Houses and Callings for a long time, and the Creditors thinke of nothing but a whistle. But neither he, nor I intend against persons, but errors. Yet what needs this
+<pb n="17" facs="tcp:118434:11"/> twixt you and me, when in next words you say, I know but some of them? I never found a piece of Schollarship with you but this, and it is a corrupt piece of humane Rhetorique, though you minde it not, a figure with a darke word like Circumcellion, called <hi>Epanorthosis,</hi> when a man having said something, present<g ref="char:EOLhyphen"/>ly corrects himselfe in what he said, and makes some kinde of minced confession of that he had renounced.<note place="margin">Correctio est quae posteriori comitate prius positum emen<g ref="char:EOLhyphen"/>dat. <hi>Susenbrot. Schem. Rhet.</hi>
+                        </note> I see all humane learning is not cast off by you, you love a little Rhetorique, <hi>Su<g ref="char:EOLhyphen"/>senbrotus</hi> is no <hi>Ephesian</hi> conjuring booke with you, and to be burnt.</p>
+                     <p>I pray you take notice how this cloth shrinkes in the pressing. Dost thou know any? and then it followes, I know but some. Put <hi>some</hi> and <hi>any</hi> together, Doe those <hi>some</hi> well? No, they doe not yet. But you say, I know they doe make Conscience to discharge their debts to their power. It were well their Cre<g ref="char:EOLhyphen"/>ditors knew it. What power can they have so to doe it, when they neglect their Callings? If ever idlenesse and neglect of Callings, cloathed a man with beggery and ragges, these sad and ragged dayes much more will doe it. If ever dayes called for honest providence and diligence, these doe. It were well you could perswade the Creditors to be of your faith, for some of these say all is theirs, and they shall judge the world, and then let the Creditors looke to themselves, they will judge them wor<g ref="char:EOLhyphen"/>thy to goe without their debts.</p>
+                     <p>Remember Sir, I leave you well in the end of this Antiquaery, in plaine confession. I see there is some ingenuity in you, you know something as well as the Quaerer, but you must needs speak something for your Client.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="9" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> IX.</head>
+               <p>Whether this Wisdome of theirs be from Heaven, which is followed with this charity to call all damned and children of the Devill, whether they know them or know them not, that walke not their way?</p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>I cannot finde this to be true. But suppose some speake rashly, must this be clapt upon the backs of others that approve not of it? <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaerie.</head>
+                     <p>If you finde it not to be true, yet the severall Congregations and Market places, where they have stood up and railed upon
+<pb n="18" facs="tcp:118434:12"/> Ministers and people, it may be they never saw before will make it true. And for clapping it upon the backs of others, I must tell you, there is some reason to apply it to all, because first the most use this way. Secondly, because the chiefe and leaders of the others doe it, as might be shewne you by a score of their letters, all writ with sharpest vineger to persons, many of them they know not. Then you bring in a <hi>salvo</hi> for this, that when mens words and deeds discover them what they are, (that is, no Quakers,) there is no want of charity, or heavenly wisdome, if the Spirit of God shall so in one of them pronounce it against a<g ref="char:EOLhyphen"/>nother. I never knew before that the Spirit of God did pro<g ref="char:EOLhyphen"/>nounce rash, railing, and hellish language. You know not what spirit you are of. After this you bring three instances of Christ, <hi>Peter,</hi> and <hi>Paul,</hi> to justifie the hellish language of your fellow-Creatures. Christ told the Jews, <hi>you are of your Father the Devill. Peter</hi> told <hi>Simon Magus, thou art in the gall of bitternesse. Paul</hi> said to <hi>Elias</hi> the Sorcerer, <hi>thou child of the Devill,</hi> &amp;c. How great is your uncharitablenesse and hellish maliciousnesse? Is every Christian walkes not your way as bad as a Jew, and of his Father the Devill, though he be never so holy and honest? Is every Christian man and Minister a Conjurer, as ill a Sinner as <hi>Eli</hi> was, because he cannot say your darknesse is light? The Lord turne your spirits into a more soft and sanctified temper. <hi>Paul,</hi> and <hi>Peter,</hi> and Christ could see further then yours can, and could spie they were incurable wretches, for we here tell of a spirit of dis<g ref="char:EOLhyphen"/>cerning. You tell us afterwards of letting tares alone, but here you allow of plucking up wheat, &amp; not letting it alone, but blast<g ref="char:EOLhyphen"/>ing and blaspheming it. The Lord give you more right faith, and right charity too, you need both.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="10" type="query">
+               <head>
+                  <hi>QƲAERE</hi> X.</head>
+               <p>Whether they be not possessed with an higher and holier spirit then <hi>Paul,</hi> who gave <hi>Agrippa, Festus</hi> and <hi>Felix</hi> their Titles, and behaved himselfe sub<g ref="char:EOLhyphen"/>missively and modestly? these Thou and revile, and scornfully contemne all Superiors and Magistrates.</p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>Whether are all Magistrates to be honoured alike? &amp;c.</p>
+                  <div type="reply">
+                     <head>The Reply to the Antiquaerie.</head>
+                     <p>The office is to be honoured in all, it is the Ordinance of
+<pb n="19" facs="tcp:118434:12"/> God. The abuse of the office may be spoken of seasonably and soberly, but without railing, and cursed contempt.<note place="margin">Psal. 15.4.</note> You aske whether one that dwells in God, or as one would say with God, is not charactered to be a despiser of a vile person. For that, there is no taking away of civill honour from any man, since the Apo<g ref="char:EOLhyphen"/>stles commanded service and obedience to Heathen Rulers for the Lords sake, because power and authority was a Divine Or<g ref="char:EOLhyphen"/>dinance. The Prophet doth not so much looke at persons as manners, that we should despise, not sooth, humour and flatter them in unjust and sinfull wayes, but shew our dislike and displea<g ref="char:EOLhyphen"/>sure. That of the Psalme is not so much of Magistrates, as of all other, or any other vicious and lewd men, of bad and naughty conversations; we should contemne them, that is, we should avoid their society, we should not make them men of our coun<g ref="char:EOLhyphen"/>tenance, Counsells, Company, our familiar friends; we should withdraw from them, and shew our dislike of their wayes,<note place="margin">
+                           <hi>Ephes. 5.</hi> Paul <hi>when there was no danger of ado<g ref="char:EOLhyphen"/>ration, gave ho<g ref="char:EOLhyphen"/>nourable termes to</hi> A<g ref="char:EOLhyphen"/>grippa, <hi>and cal<g ref="char:EOLhyphen"/>led an Heathen Magistrate, Noble</hi> Festus. Rex curru pau<g ref="char:EOLhyphen"/>lo ante vectus, &amp; Deorum à suis honoribus cultus. <hi>Q. Curt. lib. 5.</hi> Sed quid erat, quod hoc honore Hamanam afficere Mardo<g ref="char:EOLhyphen"/>chaeus Judaeus noluerit? Et opinor quoniam Iudaeis non lice<g ref="char:EOLhyphen"/>bat perle<g ref="char:EOLhyphen"/>gem patriam hominem ado<g ref="char:EOLhyphen"/>rare. <hi>Deus. Ob<g ref="char:EOLhyphen"/>servat. l. 12. c. 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi>
+                        </note> and reprove them. <hi>Have no fellowship with the unfruitfull workes,</hi> &amp;c.</p>
+                     <p>After this you tell us of <hi>Mordecaie</hi> not honouring <hi>Haman.</hi> You are sore straitned when you bring this, to prove yours may despise Magistrates. Alas for you, that you are faine to take this for a cover. Doe not you know <hi>Haman</hi> was a Heathen, a profest enemy of God, and a contriver to destroy the Church of God? Ours are no Heathens, no open <hi>Hamans,</hi> and yours are few of them <hi>Mordecaies.</hi> Ours tell us, they professe Christ and the Gospell, and are set up to help the Church. Againe, doe not yon know the honour that was given to <hi>Persian</hi> Princes, was more then civill, as the Jews thought, a kinde of adoration, like to that they gave to God, and <hi>Mordecai</hi> was afraid to come neere to Idolatry? Their Princes tooke a kinde of Divine, and more then civill state on them, and zealous Jewes were afraid of the Lords jealousie, giving that to another was due to him.</p>
+                     <p>You tell us Christ called <hi>Herod</hi> a Fox. Make our Magistrates appeare as open enemies to Christ as <hi>Herod</hi> was, and let us know you are as holy, as wise, as good as Christ, and then you may have some more liberty this way. Presently you present us with <hi>Paul</hi> calling <hi>Ananias</hi> a whited wall, for striking him contrary to Law. You minde not, that <hi>Paul</hi> corrects himselfe presently for
+<pb n="20" facs="tcp:118434:13"/> that, as a fault, and slip of his forward tongue, and confesses he spoke heedlesly that word,<note place="margin">Act. 23.3, 4, 5. <hi>Hierome</hi> attri<g ref="char:EOLhyphen"/>butes it to <hi>Pauls</hi> infirmity, <hi>lib.</hi> 3. <hi>contra Pel.</hi> And <hi>Osiand. in loc.</hi> If <hi>Paul</hi> speaks Ironically, it warrants not you. For High Priests after Christ was as<g ref="char:EOLhyphen"/>cended into the Holy of Holyes in Heaven, were but whited walls, there needed no Ty<g ref="char:EOLhyphen"/>picall High Priests, the true High Priest be<g ref="char:EOLhyphen"/>ing come, and having offered his perfect sa<g ref="char:EOLhyphen"/>crifice. Our Ma<g ref="char:EOLhyphen"/>gistrates take upon them to be High priests.</note> When they said to him, <hi>Revilest thou Gods High Priest?</hi> He said, <hi>I wist not, brethren, that he was the High Priest, for it is written, thou shalt not speak evill of the Ruler of the people.</hi> I am of their judgement that make these words of <hi>Pauls,</hi> I wist not to be thus much, I considered not, I heeded not, or I was overseene. I did it in haste. I am much more willing to take it so, then to make <hi>Paul</hi> speake Ironically, as if he said, I wist not, that I saw any thing of an High Priest, or lawfull carriage of a Magistrate according to Gods command, that I should acknowledge him so; however be it thus, <hi>Paul</hi> might speake further then every private person may: Neither are our Magistrates brought in by the <hi>Roman</hi> power, as <hi>Ananias,</hi> nei<g ref="char:EOLhyphen"/>ther are these that revile them <hi>Pauls.</hi> You bring in afterwards of Magistrates called Beasts, <hi>Dan.</hi> 7. and you tell us of a Scarlet coloured Beast, <hi>Revel.</hi> 17. I wonder you have not a Scarlet co<g ref="char:EOLhyphen"/>loured face to blush for making such grosse comparisons, twixt Heathen Tyrants, Antichrist, and our Christian Magistrates.</p>
+                     <p>Your good woman at the Castle sent out a large paper, to make Judges, and Lawyers, and Ministers to be Beasts, and accor<g ref="char:EOLhyphen"/>ding to her name, she houts on them. Onely she tells the world that the Saints must now judge, for the Sonne of God is come to judgement already.</p>
+                  </div>
+               </div>
+               <div type="counter-question">
+                  <head>Antiquaer.</head>
+                  <p>The last thing I shall deale in, in this Antiquaerie is, that you de<g ref="char:EOLhyphen"/>fend your peoples language of Thouing the Magistrates; for so did <hi>Paul</hi> use Thou to all Magistrates. Then you say we speak Thou to God, and why not to Men? And if it should not be used in English, as well as in other Languages, why did not the Translators of the Bi<g ref="char:EOLhyphen"/>ble put in <hi>You</hi> instead of <hi>Thou?</hi>
+                  </p>
+                  <div type="reply">
+                     <head>Reply to Antiquaer.</head>
+                     <p>For the language of Thouing Magistrates and others, there were not so much fault to be found with it, but for these two things.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, that it seemes to be taken up by you in a way of con<g ref="char:EOLhyphen"/>tempt, and singularity of uncourteousnesse, and banishing of a lawfull urbanity and civill behaviour to be used to all men. For which you may I know, say you use it to all, and so it is done im<g ref="char:EOLhyphen"/>partially.
+<pb n="21" facs="tcp:118434:13"/> Yet that may be made a colour to excuse your surly language to strangers, because you use it to familiars: as the co<g ref="char:EOLhyphen"/>vetous Churle excused his pinching dieting of his servants with an Egge at a meale, because he tooke but one himselfe, but that was to promote his niggardise the better.<note place="margin">Mat. 5.</note> I could tell you that the Scripture of despitefull speech and rash anger, <hi>Raca,</hi> and reproaching our brother, is by some Divines that may be your Tutors and mine, interpreted a scornfull and bitter Thouing, a man, when we would vilifie him all we can. And it is well known you tooke not up this language, till you tooke up this way of proud singularity, to depart from the manners of the common faith. I am in some d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sire to know, whether according as you pretend it a generall way of languaging it, you Thou your Fathers and Mothers or no? and if you doe, how they looke at these wanton chickins, that are so saucy with them?</p>
+                     <p>Secondly, I must tell you, that it is the common courteous lan<g ref="char:EOLhyphen"/>guage <milestone type="tcpmilestone" unit="unspecified" n="2"/> of the Country to You one, and there being no sin,<note place="margin">1 Pet. 3.8. Be Pitifull, be Courteous.</note> no not in appearance in it, I know not why you should refuse it. If you say the Translators in the Bible and other Countries used Thou, I answer, the custome of our Countrey is to use You. With all which, you minde not other Countries and languages tempered their Thous with civility,<note place="margin">
+                           <hi>Obvios quosque si non occurrit nomen Dominos salutamus.</hi> Se<g ref="char:EOLhyphen"/>neca. John. 20.15: <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                           <hi>usurparunt Grae<g ref="char:EOLhyphen"/>ci in Salutatio<g ref="char:EOLhyphen"/>nibus.</hi> Desider. Heraldus in Animadvers. ad Mart.</note> that you might know it was not of contempt, every one they spoke to that was a stranger they cal<g ref="char:EOLhyphen"/>led <hi>Sir,</hi> as <hi>Mary</hi> called a poore Gard<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er, as she thought, <hi>Sir,</hi> though it was Christ, but she knew it not.</p>
+                     <p>For the use of Thou to God in the Scriptures, and in our pray<g ref="char:EOLhyphen"/>ers, there is some reason, lest if we should use the plurall number, it might be suspected we dreamed of more Gods then one; and therefore it was needfull the singular number should be retained in our speaking to God, and of God. There is no necessity of speaking alike in all things to man, as we doe to God: because I say Thou to my Heavenly Father, it doth not follow that I must say Thou to my earthly Father also.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="11" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> XI.</head>
+               <p>Whether the Nation of <hi>England</hi> be not blind of both eyes, when they doe not see the designes of Satan by these, and such like instruments to tread under foot both Magistracy and Ministery?</p>
+               <div type="counter-question">
+                  <pb n="22" facs="tcp:118434:14"/>
+                  <head>Antiquaer.</head>
+                  <p>If the Nation of <hi>England</hi> be blind of both eyes, then whether is it not high time to remove their teachers, who have got their mo<g ref="char:EOLhyphen"/>neyes all this while, and communicated no light to them, but left them blind?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>You would faine teach me the Art of Railing, I know no Calling you follow else, but I will not learne it. Yes, there are in <hi>England</hi> that see with both eyes your designes and delusions. If they did not, holy Ministers might be faultlesse, that have offered them boxes of Divine eye salve. The use of the meanes is by the Ministers application, the blessing is of Gods application. I thought you had known a Text sounding thus, <hi>I have planted, and Apollos watered,</hi>
+                        <note place="margin">1 Cor. 3.6. Prov. 20.12.</note>
+                        <hi>but God gives the increase.</hi> Or this, <hi>the hearing eare and the seeing eye the Lord hath made even both of them,</hi> both Corporall and Spirituall senses: but you are wilfully blind in this. You tell us it may be they have got light some other way, to see the designe of God against corrupt Magistrates and blind guides. I wish they may see to purge the Land more, but your spectacles will give them a corrupt fight, for all Magistrates and Ministers must goe dwell in the Levell by your advise. I wish, that which you call <hi>light</hi> be not meere <hi>darknesse.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="12" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> XII.</head>
+               <p>Whether this be not the high-way highly to offend God, and grieve Gods Spirit, to say, that standing naked on the top of a Crosse in a Market-place, a mans lying naked, and a womans comming to lye with him, is commanded them by God, and by the Spirit of God, that so they should doe?</p>
+               <div type="counter-question">
+                  <head>Antiquaer.</head>
+                  <p>Whether <hi>Isaiahs</hi> being naked did grieve the spirit of God? <hi>Isa. 20.</hi> And if theirs be not of that nature, but their worke be made to burne, then they shall suffer the losse of that worke, <hi>1 Cor. 3.15.</hi> But where hast thou any Scripture for crying out for punishment upon their bodies for being naked? And whereas thou speakest of a woman com<g ref="char:EOLhyphen"/>ming to lye with a naked man; whether wouldst thou not here insinu<g ref="char:EOLhyphen"/>ate a lye under ambiguity of words?</p>
+                  <div type="reply">
+                     <head>Reply to Antiquarie.</head>
+                     <p>Seekers are like <hi>Africa,</hi> though they be in <hi>Europe,</hi> they alwaies bring forth some Monsters. Here is a Monster of Ignorance and
+<pb n="23" facs="tcp:118434:14"/> Blasphemie. Of ignorance in alledging <hi>Isaiahs</hi> nakednesse to cover your Clients nakednesse. Of Blasphemy, in asking a foo<g ref="char:EOLhyphen"/>lish question, whether <hi>Isaiahs</hi> nakednesse grieved Gods Spirit, and thereupon giving us to take on trust a simple it may be, these naked Clients of yours had as good allowance from the Spirit of God. It is Blasphemy to say the Spirit of purity is the patron of uncleannesse: or, that they had as good warrant as <hi>Esay.</hi>
+                     </p>
+                     <p>For <hi>Esayes</hi> nakednesse, since I know you travell not farre in Expositors, your owne Spirit commonly being your large notes on the Bible. I shall leade you no further then <hi>Junius</hi> and <hi>Tremel.</hi> who will tell you this nakednesse of <hi>Esayes</hi> was onely the putting off his Shoos, and his large upper garment, which was his Propheticall mantle, and then he was said to be <hi>naked,</hi> though he had an under and shorter garment, which shewed some nakednesse of Thighs and Leggs. When the Jews cast off any outward ornaments, they used to weare ordinarily, they are said to be <hi>naked. David,</hi> when he laid by his Royall upper Robe and danced before the Arke, <hi>Michal</hi> charges him with immodesty, for uncovering himselfe, and making himselfe too naked,<note place="margin">2 Sam. 6.14. &amp; 20.</note> and yet it is well seene there, that he was not altogether uncovered, for he was <hi>girded</hi> with a <hi>Linnen Ephod.</hi>
+                        <note place="margin">Exod. 32.25.</note> The people in <hi>Exodus</hi> that contributed their golden earerings to the making of the golden Calfe, are said to be <hi>naked,</hi> for <hi>Aaron</hi> had made them naked to their shame. Now their nakednesse was this, first they were bereaved of their golden Ornaments. Secondly, by their golden Idolatry. A consequence of it was this, they were made naked and stript at present of Gods favour and pleasure, he finding them in Idolatry. As for your Blasphemous collation of <hi>Esayes</hi> being commanded by the Spirit, (and therefore his nakednesse was not likely to grieve the Spirit) with the naked<g ref="char:EOLhyphen"/>nesse of yours, I pray you in time learne to keepe your heart from entertaining such thoughts as that all the extravagancies of yours come out with Heavens <hi>privilegio</hi> as well as the Prophets and beest Seers of God. I shall grant you these two things for yours, First, that they did not make themselves naked but by a Spirit. Secondly, That notwithstanding their nakednesse grieves the Spirit.</p>
+                     <pb n="24" facs="tcp:118434:15"/>
+                     <p>I believe the nakednesse we speak of in yours, was from a spirit, a spirit of delusion, Satan setting them on: a spirit of corruption, their owne darke and corrupt hearts prompting them to such immodesties; which light of nature would lend them a restraint for.</p>
+                     <p>And secondly, judge you whether all uncleanenesse in the very appearance doth not grieve the spirit of God: You come afterwards with an [If] their nakednesse be not of that nature, their worke shall burne. Still <hi>Etanorthosis</hi> and secret confessi<g ref="char:EOLhyphen"/>ons are in fashion with you. Were it not better for them to turne from such pranks, then to doe that which must burne after<g ref="char:EOLhyphen"/>wards, and they be ashamed of it? Besides, their works burning hereafter, neither you nor I can safely passe our words, that their hearts are freed from burning lust here in these acts of theirs.</p>
+                     <p n="1">1. For naked man and naked womans comming to him, you ask two things, whether there be any Scripture to punish their bodies for nakednesse? 2. Whether the Quaerer have not some ambi<g ref="char:EOLhyphen"/>guous meaning and sense lie in it?</p>
+                     <p>For punishment, the Quaerer mentions none, but asks if it be not the high way to offend Gods spirit; yet since your minde runs all on punishment, I pray whether doe not many Scriptures tell you of Gods prohibitions of lusts, and of mens lying with other mens wives, or with single women, to whom they are not marryed, with threatnings of wrath?</p>
+                     <p>For a lie under ambiguity of words, you may frame in your thoughts what you please, your <hi>Adam</hi> and <hi>Eve</hi> without any am<g ref="char:EOLhyphen"/>biguity, did shew nakednesse and come one to another, and it is too well knowne.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="13" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XIII.</head>
+               <p>Whether did <hi>Paul</hi> or this people say right, when <hi>Paul</hi> said, <hi>The works of the flesh were Adulterie, Fornication, Uncleanenesse, Lasciviousnesse;</hi> and yet t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey say, they are fruits of the spirit, and the power of God urges them to them?</p>
+               <div type="counter-question">
+                  <head>The Antiquaerie.</head>
+                  <p>Where, or when didst thou heare any of them say, that Adultery, Fornication, Ʋncleanenesse, <hi>&amp;c.</hi> were the fruits of the spirit? or which of them have been urged to these things?</p>
+                  <div type="reply">
+                     <head>Reply to the Antiquaery.</head>
+                     <p>Some of them have beene heard to say so; your man in prison
+<pb n="25" facs="tcp:118434:15"/> that lay naked some dayes, and the naked woman came to him, answered publiquely at the Assizes, the power of God was upon him, he was commanded to doe it. O the patience of God! <hi>God is a righteous Judge, strong and patient, and God is provoked <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ve<g ref="char:EOLhyphen"/>rie day.</hi> The man they say, is since dead, and so no more of him; his <hi>Eve</hi> is alive yet. Aske no more lest your eares tingle to heare, and your eyes glow to read the story of <hi>Wighton,</hi> where two Goats of that herd met together, a man and woman, he having a wife elsewhere, yet she at night comes from another bed to his, being of her transing sect, and bids him open to her, for the Fa<g ref="char:EOLhyphen"/>ther had sent her. He did so, till the man his bedfellow rose, and the shamefull immodesty was discovered. This is no lie in ambiguity of words, but is to be called into qu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>stion, as being falne under the Magistrates cognisance, a knowne thing. The Father sent her, so he did; the Father of uncleanenesse, and impurity.<note place="margin">
+                           <hi>Bullinger Ad<g ref="char:EOLhyphen"/>vers. Anabapt.</hi> l. 2. c. 2. &amp; 3.</note> This brings to my minde, that which holy <hi>Bullinger</hi> reports of one sort of <hi>Anabaptists,</hi> in their country, that were called <hi>Liberi,</hi> the free ones, they held (saith he) community of wives, as well as of goods; that women ought to be whores, and uncleane, and pro<g ref="char:EOLhyphen"/>stitute their chastity, for so they should become greater in the Kingdome of Heaven then honest and chaste matrons, because Christ hath said,<note place="margin">I know one said to me, that if he saw a mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e spiritual beauty in a woman then in his wife, shee was nothing to him in comparison of the other. His meaning made good that which is much talked on the formali<g ref="char:EOLhyphen"/>ty of marriage when the fancy doth another.</note> the Publicans and Harlots goe into the King<g ref="char:EOLhyphen"/>dome of Heaven before <hi>Justiciaries,</hi> and other more honest per<g ref="char:EOLhyphen"/>sons. They held that being regenerate and re-baptized, they could not sinne, it was the flesh onely that sinned, and not they. And when they committed any lewdnesse or wickednesse, they used to say, this was the will of the Father. And they had an invention to call their lying with whom they would, <hi>Spirituall Marriages;</hi> a rare way to save women, to perswade them to be uncleane. I could shew you an agreement of our Quakers to those in divers of these things, and that they have beene heard to talke of being married in the Spirit to those that were not their Husbands or Wives. But this will be enough to meet with their Lawyer, and non-suit him for all his pleadings, when he sees an woefull agreement betwixt his and other blinded wretches of old, both in language and practises. What neede I tell you, that according to their judgement, all this nakednesse and lying toge<g ref="char:EOLhyphen"/>ther may be without lust? it was <hi>Adam</hi> and <hi>Eve</hi> in their inno<g ref="char:EOLhyphen"/>cency,
+<pb n="26" facs="tcp:118434:16"/> they were naked, and were not ashamed. These are per<g ref="char:EOLhyphen"/>fect soules indeede, that can lay fire and gun-powder together to touch one another, and yet they shall not burne. Sure it may be the Devill is reviving the invention of <hi>Vastalla,</hi> a rich and noble widdow of old at <hi>Millaine</hi> in <hi>Italie,</hi>
+                        <note place="margin">Cael. secund. Cur. in pasq. Ecstatico.</note> who set up a sect of men and women that should imitate <hi>Adam</hi> and <hi>Eve</hi> in their purity. A<g ref="char:EOLhyphen"/>mong other practises of that sect this was one, their <hi>Adam,</hi> and <hi>Eve,</hi> their Man and Woman were to lie naked in bed together, and if all the night long they could be found to abide without thinking, saying, or doing any thing about tasting of the forbid<g ref="char:EOLhyphen"/>den fruit, then they were judged to be innocent, and become Angels, and to live the life of God: and it was diligently to be sought into what they had done; but if it were found otherwise, that they had desired and tasted forbidden fruit, and that <hi>Eve</hi> became a mother after ten moneths, they were excommunicate and cast out of <hi>Vastalla</hi>'s Paradise, and put away with shame from them, condemned to labour and travell in the world.</p>
+                     <p>And if you cast off your wanton wagge and wench for their prankes at <hi>Wighton,</hi> and be ashamed of them, as well you may be ashamed of their principles also,<note place="margin">But for short<g ref="char:EOLhyphen"/>nesse sake I could tell of more naked ones.</note> which belong to and agree with the principles of the rest; for such principles will naturally beget more of these practises. If they lie together, they will prove the kinred of fornication and uncleanenesse; you need not much plead for this, since in your Replie to the 21. Quaere, wee have your confession, crying guilty for two, I say three, one na<g ref="char:EOLhyphen"/>ked on the Market Crosse at <hi>Kirbie</hi>-Moores side, and two others lying naked, of which one suffers imprisonment, as you acknow<g ref="char:EOLhyphen"/>ledge, for owning that action to be of God.</p>
+                     <p>This obscaenity of <hi>Wighton</hi> indeed fell out since, so that you have two more.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="14" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XIV.</head>
+               <p>Whether this be not the ready path to Atheisme, to make nothing of the outward command of the Word, Magistrates, Ministers, but onely to hearken to what is within one, and if the Devill and Spirit of delusion be there, it must be counted the voice of God?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>Whether the Spirit that speakes in thee, be not a lying spirit, in seeking to make men believe they make nothing of the outward command of the Word, when as their lives and words come neerest to the outward Rule of any thou canst set before them? <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <pb n="27" facs="tcp:118434:16"/>
+                     <head>Reply.</head>
+                     <p>For the Quaerers <hi>Lying Spirit,</hi> if yours be a true Spirit, he is in a good part acquitted, because you have confessed nakednesse dis<g ref="char:EOLhyphen"/>covered, and obscaenity, and that he judges, so I, is a making no<g ref="char:EOLhyphen"/>thing of the outward command of the Word, which bids wee should abstaine from all appearance of evill, and provide things honest in the sight of all men—You come on fiercely, saying, their lives and words come nearest the outward Rule of any thou canst set before them. Now the Lord teach you to put a Corke in that mouth, that dare vent and poure out such stuffe: Are their lives nearest to the Rule of the word, who delight to raise tu<g ref="char:EOLhyphen"/>mults in the peaceable gathering together of Saints? Is this neer to the outward Rule, to discover nakednesse and obscaenity, which would make civill and quiet Gentiles blush? Remember what has beene said before, and will be proved, and then your lavish lips and pen will fully be reproved for fathering false and pro<g ref="char:EOLhyphen"/>phane things upon a Gospel-conversation.</p>
+                  </div>
+               </div>
+               <div type="counter-question">
+                  <head>Antiqu.</head>
+                  <p>
+                     <hi>Then like Alexander the Coppersmith, you give out false and cop<g ref="char:EOLhyphen"/>per language against the Preachers of the Gospel, saying, that they make preaching a trade to got mony by, make merchandize of the word, they are hirelings of men, rather then Ministers of Christ.</hi>
+                  </p>
+                  <p>To this I shall answer you hereafter, when the spirit of ray<g ref="char:EOLhyphen"/>ling comes afresh upon you againe, and for present leave you a<g ref="char:EOLhyphen"/>mong the hirelings of Satan, whom he hath hired to blaspheme the Gospel of Christ, and the minstery thereof.</p>
+               </div>
+               <div type="counter-question">
+                  <head>Antiqu.</head>
+                  <p>
+                     <hi>As to Magistrates, wherein are they against the just commands of Magistrates?</hi>
+                  </p>
+                  <p>I will answer you: The Magistrates should be keepers of peace and order, your people will know none, but transgresse against the end of Magistracy, our living a quiet and peaceable life in all godlinesse and honesty. They are against the observing of the Lords day, and other extraordinary dayes of publique worship, as nothing appertaining to them, though the Magistrates office is to see them observed. And for their goodly reckoning of Magi<g ref="char:EOLhyphen"/>strates, we have heard before of your calling them Beasts, that is, all such as are not for you. One of your Libertine crew travel<g ref="char:EOLhyphen"/>ling
+<pb n="28" facs="tcp:118434:17"/> last publique Fast in <hi>October,</hi> and his Beast he rid on being taken till he paid his Fine for breach of the Parliaments Ordi<g ref="char:EOLhyphen"/>nance, he answered he knew no Lawes, nor Rule upon earth, but the word of God, and God ruler of all. In this he knew not the word of God; which saith, <hi>Let every souls be subject,</hi> &amp;c.</p>
+                  <p>The plea and defence for Ministers shall be made afterwards at the 26. Quaere and Antiquaerie.</p>
+               </div>
+            </div>
+            <div n="15" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XV.</head>
+               <p>Whether those Magistrates be not most faithfull friends to their Country and office, that do most labour to restraine their riots and tumults, that we may lead a quiet life in all godlinesse and honesty?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>Whether are these people, who quietly passe to and fro, or an heady people gathered together to stone and beat them the Rioters? And whether is not he, who encourages that brutish behaviour amongst the people, worthy to be accounted the head of the Ryoters? <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>Concerning this peoples passing to and fro quietly, we have heard there is little to that purpose, and for others which you suppose ours gathering together to stone and beat them if any prove so unorderly; neither doth the Quaerer, nor this Replyer go about to justifie them. But the desire is, all may be done legally and orderly: your selfe know they have had the benefit of the Sessions, where there has beene colour or appearance of unlawfull setting upon them, though they first provoked them by undue actions. As Ryoting is punished in your people, so let ryotous usage be punished in ours: no sober Christian that I know will be an Advocate for any that proceed against yours without the bounds of Law and Gospel; the rest is a clawing of yours for innocent and harmlesse, and a railing on all others for riotous assaulters that will not walke as they do. That above will serve reason, nothing will stop railing.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="16" type="query">
+               <head>
+                  <hi>QƲERE</hi> XVI.</head>
+               <p>Whether a quiet and honest Papist be not a Saint in comparison of these, though both of them be Idolaters, the one worshipping the fancy of <hi>Rome,</hi> the other the fancy of his Braine?</p>
+               <div type="reply">
+                  <pb n="29" facs="tcp:118434:17"/>
+                  <head>Reply.</head>
+                  <p>Much do I wonder you make no Reply to this, but onely to the 17. Quaere, and this onely of all the rest is omitted. Cer<g ref="char:EOLhyphen"/>tainely, for any thing I can see, there is a great deal of agreement betwixt these and Papists; Papists were not mentioned for any credit of their faith, but for quietnesse and orderlinesse in the point of their conversation, in which they are far more harmlesse then yours.</p>
+                  <p n="1">1. Is it omitted because you would have every one walke according to their owne light, whether it be a Ro<g ref="char:EOLhyphen"/>man candle, which is but a snuffe, or a <hi>Jerusalems</hi> light?</p>
+                  <p n="2">2. Or is it because yours and they goe the same way, and thinke to make your Christ, Justification, and Salvation out of your owne Regeneration, Mortification, denyall of the world, good works?</p>
+                  <p n="3">3. In all the writings I have seene, this of yours, many letters of theirs, there is scarce a word of salvation by Christ, his bloud, merits, sufferings, but all runs upon new-birth, selfe-deniall, light within one, Christ in a man, and Christ without apprehen<g ref="char:EOLhyphen"/>ded by faith to be our sole righteousnesse, is not at all mentioned by any of yours. If this be not a kinde of Popery, a faire gate of <hi>Rome,</hi> I am deceived, and so are others too; and take heede some Roman spirits doe not lead on these poore soules, and de<g ref="char:EOLhyphen"/>ceive them; take heed there be not a Roman Foxe to lead and guide your Lambs.</p>
+               </div>
+            </div>
+            <div n="17" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> XVII.</head>
+               <p>Whether the toleration of these be not more intolerable then the walking a<g ref="char:EOLhyphen"/>bout, and toleration of Bedlamers and frantick people, since these cannot perswade others to be mad; but by spirituall delusions the other draw our wives and children all over the land to spirituall madnesse?</p>
+               <div type="counter-question">
+                  <head>Antiqu. Reply.</head>
+                  <p>I love not to render railing for railing.</p>
+                  <div type="reply">
+                     <head>Reply to Antiqu.</head>
+                     <p>Truly you do not here, but render railing being not railed on, and presently you set upon it, as if you had commenced M. of that black Art, and therefore I shall leave the rest, it being nothing but railing and reviling, and no way answering the Quaere it selfe.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="18" type="query">
+               <pb n="30" facs="tcp:118434:18"/>
+               <head>
+                  <hi>QƲAERE</hi> XVIII.</head>
+               <p>Whether there be not a great deale of ignorance and blindenesse in the Nation, when the people that doe not act those things, doe yet speake well and favourably of the obscaenity, immodesty, disorders, irregularity of these wandring starres?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>What obscaenity, immodesty, <hi>&amp;c.</hi> is that which thou clappest upon the necks of all this people? Is it that nakednesse thou spokest of be<g ref="char:EOLhyphen"/>fore? If it be, what canst thou doe with it, but let it rest till the day of triall, which shall discover every mans worke of what sort it is?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>Well said, and like a Catholique moderatour, let it rest till the day of triall. Not so Sir, there is another saith otherwise, <hi>Reprove them sharply,</hi>
+                        <note place="margin">Tit. 1. Ephes. 5.</note>
+                        <hi>that they may be sound in the faith; have no fellowship with the unfruitfull workes of darkenesse, but reprove them rather.</hi> What a faire end you make of all? O that <hi>Absalom</hi> were a Ma<g ref="char:EOLhyphen"/>gistrate, or Prince in <hi>Israel,</hi> he would doe all men right. If one came and complained to him, one hath drawne away my Wife, and she followes another: one hath seduced my onely Sonne or Daughter; one hath got my Sister with child, another hath pul<g ref="char:EOLhyphen"/>led the Minister out of his Pulpit, and when he was preaching, called him hireling, wolfe, sorcerer, deceiver, false teacher, &amp;c. another called all the Magistrates masters of bribes, &amp;c. What shall be said of this? our compleat Justice here would set all right in a few words. Go home, let them alone, let every one fol<g ref="char:EOLhyphen"/>low the light that is within them, let all alone to the day of triall; here is Justice indeed. 'Tis pity you gave not the Parliament di<g ref="char:EOLhyphen"/>rections for the Copy of an Oath, to Justices of Peace: What a common wit you have to constitute a Common-wealth?</p>
+                  </div>
+               </div>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>Then you bring us in the harmelesse dealings of yours, meeting without disorder to speake to one another, and edifie one another in love, crying out against sinne in the open streets, going into Syna<g ref="char:EOLhyphen"/>gogues, and crying down Parish hirelings for deceivers and se<g ref="char:EOLhyphen"/>ducers.</p>
+                  <div type="reply">
+                     <pb n="31" facs="tcp:118434:18"/>
+                     <head>Reply.</head>
+                     <p>This is pretty orderly indeed, and you say, though we count it disorder, yet it was once order; for <hi>Paul</hi> used to reason in the Synagogues, <hi>Acts</hi> 17.2. Reasoning you say is not a set oration of one alone, but others to speake as well as he. It is said, <hi>Paul</hi> for three Sabbath daies reasoned with them out of the Scriptures, that is, for three Sabbath dayes he preached unto them Jesus Christ &amp; he proved him to be the Christ by arguments and reasons drawne out of the Scriptures, which is the Scriptures of the Law and Prophets applyed to Christ. You have after in the third verse, that he was opening, and alledging, that Christ must needes have suffered and rise againe. This reasoning of his was preaching, for it was alledging Scriptures, and opening, that is, expounding the true meaning of them: we see afterwards there were lewd fellowes of the baser sort that railed against him in the City, and raised an uproare: we heare of none of their reasonings in the Synagogue, but of their rising and railing in the City. If any of yours be preachers, as <hi>Paul</hi> was, and will preach faithfully the word of God, you may reason and open the Scriptures: but if you condemne all teaching in any but yours, and true teaching of Jesus Christ, and have no orderly nor sober way of discoursing with teachers after their businesse, but both in and after men and women cry out deceivers, dogs, hirelings, and why suffer you them? here is neither rime nor reason, but plain Rabshakisme and open railing, as if they meant to act the parts of dogs and swine, tearing and rending.</p>
+                     <p>For your wandring starres applyed to Ministers, rather than to yours, who have no certaine settled abiding place in earth where to lay their heads, whereas Ministers, you say, wander from truth of Scriptures, I leave you to reviling and wandering, and wandering and reviling. No, the fault of Ministers with you is, they will not wander up and downe, but desire to shine in their owne Orbes with the light of truth: yours you say have no setled habitation, therefore me thinkes this proves them wanderers; why have they not settled habitations? They had Callings, Wives, Husbands, Parents, Children, Masters, Servants, Friends, why wander they abroad, and runne from them, and from their good friend the truth?</p>
+                     <p n="1">
+                        <pb n="32" facs="tcp:118434:19"/>1. <hi>Wandering Starres</hi> are false teachers, called by the Apostle <hi>Jude,</hi> that are like the Planets, which are carried with another motion then other starres; so are yours, they will not be guided by the orderly light of the truth, but their owne braines are their Scriptures.</p>
+                     <p n="2">2. Or <hi>Wandring Stars</hi> are those that seeme to strike and glide aside in the heavens, which we commonly call running or falling starres. These are not starres indeed, but a running hot inflama<g ref="char:EOLhyphen"/>tion in a dry aire: so these seeme to shine with a forme of light and holinesse; but alas, this makes them no starres, this is but an inflamation of deceived spirits; they are dark and want true light in them.</p>
+                     <p n="3">3. Or lastly, they are called <hi>Wandering Starres,</hi> because they deceive and lead into wanderings and errours, and if yours do not deceive, and are deceived, love to wander, and cause others to wander, let truth judge.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="19" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> XIX.</head>
+               <p>Whether this be not strange Divinity, or strong Vanity rather, that they may leave Callings, be obscaene, revile, be disobedient, care neither for Or<g ref="char:EOLhyphen"/>der, nor Office; yet they sinne not, but are perfect?</p>
+               <div type="counter-question">
+                  <head>Antiquaery.</head>
+                  <p>Why dost thou lye to say they leave their Callings? And if some of them be called from their outward callings, and be sent forth by the Lord to Minister the word unto others, is not this a cleaving to that Calling to which they are called?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>Who calls men and women now to leave their outward Callings? what voyce of God called your men from the plough, your women from the Distaffe to Minister the word to others? A little calling will serve them to leave their Callings. Doe not you know the Spirit of God saith, <hi>let every man abide in that Calling,</hi> that is, that outward Calling of Master, Servant, &amp;c. <hi>wherein the Lord hath set him?</hi> He is not to thinke that his spiri<g ref="char:EOLhyphen"/>tuall Calling doth abolish and nullifie his civill Calling.<note place="margin">1 Cor. 7.</note> When Christ calls any by his grace to himselfe, he doth not call him from his office and condition of civill exercise wherein he was. But why trouble I my selfe about this, since the Apostle is so
+<pb n="33" facs="tcp:118434:19"/> plaine? Presently you rage, and your tongue is so hot, or your stomack that fills your pen, that you have need of a sober Julep to coole you, and bring you acquainted with Christian modera<g ref="char:EOLhyphen"/>tion. For then you poure it out, that Ministers are afraid of discovering their nakednesse, and therefore would have them locked up in callings, prisons, any where to be rid of them. When Ministers doe not according to the Gospell let them heare of it, but truly, soberly, with a spirit of Christian reproofe, to amend, not to enrage them.— You excuse them, they doe not revile, no more then Christ in calling Pharises, <hi>blinde guides, Hypocrites, painted Sepulchers.</hi> For obscaenity and such like, you never heard an immodest word come out of their mouthes. But you have heard of immodest actions, lying together as above, nakednesse, &amp;c. and you were faine to be their botcher, to make up some poore covers for their nakednesse. For Lording it over their Consciences that you speake of, it needs not.<note place="margin">Romans 14.</note> If they would have their faith to themselves, none would trouble them, but when their fire goes out of their owne harth to the burning up of other houses, to seduce, beguile and the like, to restraine the publique spreading of poysonous infections, is no Lording it over the Conscience.</p>
+                     <p>To that of being perfect and without sinne, you say this: I think they are neerer to that condition then thou art who revilest them. I thanke you Sir, in behalfe of the Quaeter, he expected no lesse, when he heard who was the Judge. You seeme to allow their bragging of perfection, and being without sin, what neede a man to goe to Heaven for perfection, since he may have it here at their sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ps? So the Familists of old said, they were as perfect as <hi>Adam</hi> and <hi>Eve,</hi> and we may beleeve them, as perfect and without sinne, as <hi>Adam</hi> in the day of his fall, stript of the image of God, perfectly corrupt, and defiled in all powers both of soule and body.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="20" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> XX.</head>
+               <p>Whether this people have not light upon some better Scripture then Christ hath given us, which tells them, that perfect iniquity, is perfect sanctity?</p>
+               <div type="counter-question">
+                  <head>Antiquaer.</head>
+                  <p>I wonder thou canst invent such a lye against thaem, wilt thou not cease to adde lye to lye? who ever heard such a Tenent come out of
+<pb n="34" facs="tcp:118434:20"/> their mouths? or how can any such thing be gathered from their lives, when as they abhor the workes of darknesse more then any?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>They had need be excellent, for your Trumpet blowes loud, and proclaimes them with great pietie and praise. Some flowers of your Rhetorique we have all along, of the Quaerers lying and adding lie to lie, these make well to the filling up of your booke. To prove it a lie, you say, who ever heard such a Tenent come out of their mouthes? Are you <hi>Malchus?</hi> who cut off your eare? Though you have it not immediatly from their mouthes, yet you have heard what you know will be proved to be very true, that a woman lying with another womans husband said the Father had sent her. First now spell, and then put toge<g ref="char:EOLhyphen"/>ther, and it will come to as much as this, that perfect iniquity is perfect sanctity. For if these fleshly lusts be iniquity (as I thinke they are) and yet it is the doing of the will of the Father, it is perfect sanctity if it were so: Remember for the rest your <hi>Adam</hi> and <hi>Eve.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="counter-question">
+                  <head>Antiqu.</head>
+                  <p>
+                     <hi>At length you blow your Trumpet till your cheekes swell againe, in behalfe of this people, for their praise. They abhorre workes of darknesse more then any; they are free of swearing, drunkennesse, revelling, banqueting, gluttony, sports, excesse, pride, covetousnesse, un<g ref="char:EOLhyphen"/>cleanenesse, foolish talking, jesting, suits, strife, quarrelling, defraudings and over-reaching.</hi>
+                  </p>
+                  <p>If a man should say to me, take this vessell, here is no rats-bane, spider, <hi>&amp;c.</hi> and reckon up a great many poysonous things, it were no great commendation if there were other as poysonous things that are not mentioned at all, as toads, vipers, aspes, adders, hen<g ref="char:EOLhyphen"/>bane, <hi>&amp;c.</hi> Thus here you tell us they are not entertainers of such and such vices, but they have as bad and worse: they follow not drunkennesse, but they are drunke with spirituall pride, to thinke themselves as high in prophesie and inspiration, as <hi>Moses, Esay,</hi> or <hi>Paul.</hi> I could give you a note of particulars, that they are evidently guilty of, and will be judged workes of darknesse and fruits of the flesh.</p>
+                  <p n="1">1. As evill speaking, they say the Devill is in every one that a<g ref="char:EOLhyphen"/>grees not with them.</p>
+                  <p n="2">
+                     <pb n="35" facs="tcp:118434:20"/>2. Clamours, and cryings out in quiet Assemblies, with all bitter revilings,</p>
+                  <p n="3">3. Busibodinesse in other mens matters, while all lies at sixe and sevens at home.</p>
+                  <p n="4">4. Defrauding of Creditours, by impoverishing themselves through wandering abroad.</p>
+                  <p n="5">5. Strife and quarrelings are ordinarie with them, if they see but the face of one is not theirs.</p>
+                  <p n="6">6. Blaspheming of the Ordinances of God, and all outward teachings.</p>
+                  <p n="7">7. 8. 9. Envy, heresie, conceit of perfection, and some other high things, which will fall as low as works of darknesse.</p>
+                  <p>I may do you the kindnesse a little below to let you know a little more.</p>
+               </div>
+            </div>
+            <div n="21" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXI.</head>
+               <p>Whether when they will be naked, deny meat for some dayes, and use some other strange pranks, they goe not both against light of nature and light of Scripture?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>Concerning nakednesse, why dost thou mention it, as if they were all accustomed to be so? when as thou canst produce but two persons, who were so acted, and one of them suffers imprisonment for owning that action to be of God: And how knowest thou but God may make them signes as he did <hi>Isaiah,</hi> to discover thine and others nakednesse? <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>
+                        <hi>Sir,</hi> If you please we will set these Coleworts by, because they have beene twice boyled and set on the table: besides we have your confession; yet if you hearken but to some poore ignorant, seduced ones in the Dales, there are many may be heard of that did run starke naked upon supposition and presumption of re<g ref="char:EOLhyphen"/>gained Paradisiacall purity.</p>
+                     <p>After you argue <hi>à mirabili,</hi> wondering any will write of their abstaining from meat certaine dayes, when Scripture speakes so much of Saints fastings, <hi>Moses</hi> and <hi>Christ</hi> forty dayes a piece, <hi>Esther</hi> three dayes, <hi>Ninevites, David, Daniel, Ezra, Johns</hi> Disci<g ref="char:EOLhyphen"/>ples, <hi>Paul,</hi> our Saviours giving rules for fasting, <hi>Mat.</hi> 6.16.</p>
+                     <p>Fault is not found for their fasting, but because it is meere fa<g ref="char:EOLhyphen"/>sting
+<pb n="36" facs="tcp:118434:21"/> without praying, preaching, meditating. Alas, the Devils fast alwayes, but they pray not; we heare of yours fasting, but nothing of their praying, or any devout humbling before the Lord, and confessing of sins. Fasting is a leane and poore thing, unlesse Prayer and Devotion fatten it.</p>
+                     <p>
+                        <note place="margin">The propoun<g ref="char:EOLhyphen"/>ding of <hi>Moses</hi> and <hi>Christs</hi> 40. dayes fast, is idle, and to no purpose, since they were ex<g ref="char:EOLhyphen"/>traordinary and miracu<g ref="char:EOLhyphen"/>lous, altogether beyond Rule.</note>Our Saviour gives no Rules for fasting without praying and other acts of Humble Devotion and seeking God, and therefore it must be done in secret, yours fast and doe it openly, and in imi<g ref="char:EOLhyphen"/>tation of <hi>Moses</hi> and <hi>Christ,</hi> thinking to be miraculously fed from Heaven, and so tempt God. Yea they preferre these outward acts of bodily exercise before faith in Jesus Christ.</p>
+                     <p>As for other strange pranks, (you say) I know not what they are, and nothing being mentioned, I can say nothing of them.</p>
+                     <p>You shall have something mentioned further, a man beyond <hi>Malton,</hi>
+                        <note place="margin">If you would know more, and that true too; a woman at <hi>Cave</hi> boasting of turning wa<g ref="char:EOLhyphen"/>ter into wine, and casting out Devils, and that her Lord bad her; she af<g ref="char:EOLhyphen"/>firming it done, others denying it done, she said her Lord had put a lie upon her, and she p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>esently fell mad.</note> he need not be named, caused his Oven to be heated and shut up with onely aire and heat in it, and perswaded his wife at the time of drawing, she should finde it full of meate. This is miraculous working, marvellous ignorance, and marvellous tempting of God; for he and she found nothing but their owne follies and empty conceits. This is both against light of Nature and Scripture, to looke for blessings to arise without meanes and helpes, and to thinke God shall attend to worke marvells at the desire of every fancifull heart.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="22" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXII.</head>
+               <p>Whether it be a good thing to maintain without any limitation, or bounds, we have fought for our liberty, and we will have our liberty?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>How can they maintaine this without any bounds, when they can<g ref="char:EOLhyphen"/>not use the sword to procure it, being kept within the bounds of peace voluntarily? And is it unreasonable for them to desire as free borne Inhabitants of England, an harmelesse and innocent liberty, especial<g ref="char:EOLhyphen"/>ly seeing some of them have fought for their liberty, as well as other men?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>You shall not much be medled with here. The Quaere I sup<g ref="char:EOLhyphen"/>pose is propounded upon this ground, that some thinke they may take liberty, nay licence to doe any thing, because it has beene fought for; liberty, an holy, confined liberty has been fought for,
+<pb n="37" facs="tcp:118434:21"/> but no licentious liberty and boundlesse for any to do what they will. For voluntary abiding within bounds you say it, we see it not, but as we see the mastiffe in the chaine, biting, snarling, struggling to be out of it. The rest needs not any thing to be said to it, a liberty of free-borne English being granted to all, so that it be liberty that Law and Gospell, Reason and Christian Reli<g ref="char:EOLhyphen"/>gion sets out.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="23" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXIII.</head>
+               <p>Whether the Lord be more displeased, or the Devill more pleased with these practises and principles, vented, spread, increased?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>The Lord is in his servants, the Devill is in his servants, <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>The summe of your Antiquaerie is conjuring as well as you can to raise up the Devill to goe amongst all them, and abide with them, that will not abide on the Quakers side: and for yours, God is among them, they are harmless, innocent Lambes, Doves, little Ones, Babes in Christ. And yet for all this, these Babes, Doves, little Ones, Lambes, they cry and make a noise, their voice is heard in the streets and markets, and like the voice of Dra<g ref="char:EOLhyphen"/>gons, and roarings, and yellings, as if they were greater beasts. If they be Lambes, they are very unlike the Lambe of God.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="24" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXIV.</head>
+               <p>Whether it concernes not the whole country, to move the Magistrates, or Parliament, or both; timely to provide some remedy, left the whole country be swallowed up by Divine permission in tumults, madnesse, disorders, and Anarchicall licentiousnesse?</p>
+               <div type="counter-question">
+                  <head>Antiquaer.</head>
+                  <p>Whether the whole Country, or onely the Priests, are in danger to be swallowed up by these people? If it be done by Divine permission, how canst thou, or any else, set themselves against it without dan<g ref="char:EOLhyphen"/>ger?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>Sure the Country is in danger, when the pit of errours opens the mouth so wide to be swallowed up. As for these you call Priests, the Lord, whose Embassadours they are, being faithfull will protect them.</p>
+                     <p>You come with this onset, <hi>If it be by Divine permission,
+<pb n="38" facs="tcp:118434:22"/> how canst thou, or any body else, set themselves against it without danger?</hi>
+                     </p>
+                     <p>Yes, there is no danger to set our selves by holy and comman<g ref="char:EOLhyphen"/>ded wayes and meanes against those, which may afterwards ap<g ref="char:EOLhyphen"/>peare to be Divine permission.<note place="margin">Acts 4.28.</note> The <hi>Jewes,</hi> and <hi>Pilat,</hi> and the rest, did that in crucifying of Christ, which the hand of the councell of God determined before to be done, and yet they were sinfull and cruell in it; for the councels and permissions of God put no force upon the wills of men,<note place="margin">Ad peccandum non adjuvamur à Deo, sed quod à Deo nos aver<g ref="char:EOLhyphen"/>timus, nostrum est, &amp; haec est voluntas mala. Aug. de peccat. merit. <hi>l. 2. c. 5.</hi>
+                        </note> but they may freely act, and set themselves to act other wayes. The permission of God is not to be understood as the permissions of Tyrants, whose wills help and approve the wickednesse of men. God permits many things which he will punish, we are to looke at his preception and com<g ref="char:EOLhyphen"/>mand, that is to rule us, and we are to bend that way, what ever his permissions be. The decrees and permissions of God do not take away but preserve the liberty and order of nature, and the free manner of actings instituted by God in the second causes,<note place="margin">
+                           <p>Divine per<g ref="char:EOLhyphen"/>mission doth not lessen the guilt of our sinfull Com<g ref="char:EOLhyphen"/>missions.</p>
+                           <p>Though the offence must come, yet woe be to him by w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>om the of<g ref="char:EOLhyphen"/>fence com<g ref="char:EOLhyphen"/>meth.</p>
+                        </note> imposing no necessity and force upon them. By your kinde of arguing <hi>Judas, Pilate,</hi> Scribes did well in crucifying Christ, for they did as they were acted by Divine permission. I doubt all the wretched practises of yours, though crooked, are fathered upon the streight decrees, councells, and permissions of God, and so their sinnes shall be excused, and his councell accused. By this I see you have very little Divinity: Gods permissions are secret, his commands are open; I am to doe and forbeare to doe according to his commands, let his permissions secret be what they will. <hi>Secret things belong to the Lord, but revealed things to us and our children.</hi> If I act according to Gods open word and com<g ref="char:EOLhyphen"/>mands, it matters not what his permissions be; I shall be accep<g ref="char:EOLhyphen"/>ted, because I looke at the knowne will of God: <hi>Judas</hi> had done better, though it was Gods permission to resist thoughts and purposes of betraying his Lord. What followes is of your crying out of peoples furiousnesse, in beating with clubs and cudgels, stoning, casting dirt, ducking into water such as move not an hand against them, nor seeke revenge upon her for such cruelties, though by Law they might, for which there is answer ready. I ne<g ref="char:EOLhyphen"/>ver knew any of these things done in a small measure, but yours sought the full extremity of law, though yours gave the first on<g ref="char:EOLhyphen"/>sets
+<pb n="39" facs="tcp:118434:22"/> and provocations: when law is used against them, they crie out on it; when they would make use of it, they applie themselves earnestly to it. If you say ours are faultie in doing any thing unjustly and tumultously, so grant I, and they that do it, let them suffer for it.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="25" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXV.</head>
+               <p>Whether the men of <hi>Malton</hi> that burnt their goods, because they might bee abased by pride; had not better councell, even from <hi>Iudas,</hi> to sell them and give the price to the poore, whereas the fire devoured their goods and cha<g ref="char:EOLhyphen"/>rity?</p>
+               <div type="counter-question">
+                  <head>Antiquaer.</head>
+                  <p>Whether thou and <hi>Judas</hi> be not both of one Counsell, in advising to sell their pretious things for the use of the poore? And whether is counsell of <hi>Judas</hi> and thine better to be followed in this case, then the practise of <hi>Moses,</hi> who burned the golden calfe in the fire. <hi>Exod. 32.20.</hi> and the practise of <hi>Hezekiah,</hi> who did the like with the brasen serpent: and of them in the Acts,<note place="margin">Acts 19.19.</note> who burned their books amounting to <hi>50000.</hi> pieces of silver?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>Sir, you had need to use your memorie sometimes, for it proves a false Register ever and anon. <hi>Judas</hi> and the Quaerer, you say, advise to sell their pretious things for the poore, and yet in the next lines you compare these precious things to the golden Calfe, brasen Serpent, and conjuring books; you count these no pretious things. Verily I thinke with the Quaeter they had done more good, if <hi>Judas</hi> had beene of their Councell,<note place="margin">Erronious spi<g ref="char:EOLhyphen"/>rits of old were complained on, as <hi>De arena resticulas ne<g ref="char:EOLhyphen"/>ctentes.</hi> Irenae. advers. Valen. lib. 2. c. 20.</note> though I take him to have beene no good Lawyer, nor Gospeller; and so have given either the things, or value to the poore. What Devotion, what Charity was there to feede the fire with them? It had been more pretious Devotion, to have devoted these pretious things for good to some: I have oft heard of a rope of sand, at length you make one, and compare these fellowes burning of their rib<g ref="char:EOLhyphen"/>bonds and silke, I know not whether lace too; with <hi>Moses</hi> burn<g ref="char:EOLhyphen"/>ing the molten Calfe, <hi>Hezekiah</hi> breaking the brasen Serpent, and the burning of the <hi>Ephesian</hi> conjuring Books in the Acts. I hope you are awake, but you talke as in a dreame. Compare you rib<g ref="char:EOLhyphen"/>bands to the molten Calfe, Serpent, conjuring Books, that were directly used for Idolatrie, and Demonolatrie? O all you Mercers
+<pb n="40" facs="tcp:118434:23"/> and of the like Trades, here is one will complaine of you all to the Parliament, for selling molten Calves and conjuring Books. No marvell if they burnt them that were such dangerous things. I see Scriptures are ordinarily prest souldiers to fight for your fancies. I know not what to say to this ignorance and folly, 'tis best to leave you in your pleasant humour, that have found Scri<g ref="char:EOLhyphen"/>ptures to burne fine commodities under the notion of conjuring Bookes. Meat, Drinke, Cloathes, Horses, Dogs, Riches, all may be abused by pride and wantonnesse; and therefore all must be burned, (Coveteousnesse and Idolatry;) the Advocate pleades it, they are conjuring Bookes.</p>
+                     <p>But Good Sir, why doe your Clients recant and sell of these kinde of goods againe? I beseech you send them word to quit themselves quite of these molten Calves, and brasen Serpents, or else you will plead no more for them.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="26" type="query">
+               <head>
+                  <hi>QƲAERIE</hi> XXVI.</head>
+               <p>Whether any sober and pious soules, well grounded in, and cleaving to the word, can easily fall into these braine calentures, and dotages? And whether it be a thing fained and put upon them, or that the Judges and Assizes can witnesse it?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>I may let the former part of the Quaere stand good against thy owne selfe without altering one word.</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>If you let the former part stand, it will not stand long, but it will fall towards your Clients.</p>
+                     <p>For the last part, you say, what is it the Judges and Country can witnesse against them? any thing but what they openly con<g ref="char:EOLhyphen"/>fesse and stand for, even unto suffering.</p>
+                     <p>It is not enough to suffer, but we must looke to the cause of our sufferings: The Apostle bids, <hi>let none of you suffer as an evill doer,</hi>
+                        <note place="margin">1 Pet. 4.15.</note>
+                        <hi>or as a busie bodie in other mens matters.</hi> A man may boldly make confession of that which may be his confusion.</p>
+                     <p>Ministery of <hi>England</hi> is much beholding to you, for in the end you say, your peoples fault is this, they ascribe Honour to God onely, and not to Men: they affirmed all the Priests of <hi>England,</hi> who preach for hire, are Theeves and Robbers.</p>
+                     <p>Here I have writ as you did, Theeves and Robbers, with a great
+<pb n="41" facs="tcp:118434:23"/>
+                        <hi>Thiefe</hi> and a great <hi>Robber,</hi> because I know you take them to be great Theeves and great Robbers. For ought that I can see, they cannot rob you of much Divinity, Religion, or Charity: you are a Seeker, and they may goe seeke for it, and finde little in you. One would verily thinke, you are some Renegade Minister, have left your way, and therefore persecutes with your tongue all of that way. I have often heard it said, pardon a little Latin, <hi>Apo<g ref="char:EOLhyphen"/>stata est persecutor sui ordinis:</hi> If the Doctrine be good, the Ap<g ref="char:EOLhyphen"/>plication may lodge with the Advocate. But Good friend, why Thieves and Robbers are they? just as Physitians are, Theeves and Robbers that rob us of our diseases; so the Ministers are sent by God to rob the world of their ignorance, darknesse, errour, un<g ref="char:EOLhyphen"/>beliefe, the diseases of mens soules. By this it should appeare they are good Theeves, as the repenting Thiefe on the Crosse was called a good Thiefe: <hi>O but they preach for hire, they are hirelings.</hi> You have told us this oft enough, I could speake much for the Ministery, and I tell you truly, I doe verily thinke the Devill uses abundance of men and women now as his bellowes, to blow with his owne breath; you speake in this the very language of Hell: <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the Divell were on earth audibly and visibly to plead, he would plead as you doe against Gospel, and Ministers. All the world troubles him not so much as the faithfull Preachers of the Gospel: you tell of Hirelings, take heede you be not one of his <hi>Balaams,</hi> whom he hath hired to curse and revile <hi>Israles</hi> Ministerie: Have you no better names for them? Are they not the Embassadours of Christ, under-stewards in his House to give his family th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ir portion in due season? The Holy spirit, and Holy writings would have taught you to give them more honour. Now there is no<g ref="char:EOLhyphen"/>thing comes from you but, <hi>Out upon them Hirelings:</hi> yet your people in their letters have given them company, for they write that the Judges, Lawyers, Magistrates, doe all for hire and bribes also. You would have Ministers (you said before) to be content with Christs allowance: Friend I tell you, Christs allowance is hire and maintenance, though you take it to be an odious word. Did not our Saviour bid his Disciples take reliefe where they came, with this reason, <hi>For the labourer is worthy of his hire?</hi> What will you make them? If they were Soldiers,<note place="margin">Luke 10.7.</note> you would allow them pay, <hi>Who goeth a warfare any time at his owne charges?</hi>
+                        <note place="margin">1 Cor. 9.</note>
+                        <pb n="42" facs="tcp:118434:24"/> They are the good Soldiers of Jesus Christ, they are in his spiri<g ref="char:EOLhyphen"/>tuall warfare. If they were Shepherds, they would be allowed for keeping the flock of perishing sheep; <hi>Who feedeth a flock, and eateth not of the milke of the flock?</hi> Mens souls are the Lords sheep, <hi>and these watch for their soules,</hi> Hebrews 13. Immortall sheepe, immortall soules: none grutches, rightly minded, assesments for Soldiers pay, none for Shepherds wages; onely Ministers must be termed Hirelings, because mens soules are counted base: yet a<g ref="char:EOLhyphen"/>gaine I ask you, will not you use them as well as Soldiers, as well as Shepherds? How would you have them used? As beasts?<note place="margin">1 Cor. 9.9, 10.</note> I know you would, for you called them dogs and wolves. Well, let them be used like beasts then, and they must have maintenance; for it is written in the Law of <hi>Moses, Thou shalt not muzzle the mouth of the Oxe that treadeth out the Corne:</hi> Doth God take care for Oxen? Or saith he it altogether, saith <hi>Paul, for our</hi> sakes: for our sakes no doubt is it written, <hi>That he that plongheth should plough in hope, and he that thresheth in hope, should be partaker of his hope.</hi> Surely Satan muzzles both the Rea<g ref="char:EOLhyphen"/>son and Religion of such as you, that you cannot speake sense, but barke and bluster with railings and revilings, when you speake of the Minsters of the Gospel: you doe not onely judge them, but you make your selves a Judge of the Law. Verily the Lord will looke upon his faithfull Ministers,<note place="margin">2 Sam. 16.12.</note> and he will requite good for your cursing this day, as <hi>David</hi> said of the foreman of your Tribe, cursing <hi>Shimei.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="27" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXVII.</head>
+               <p>Whether they say true, when they say they are the prophet <hi>Isaiah, Ieremiah, Ezekiel, &amp;c.</hi> and therefore they may goe naked, and doe what they will? Or doe they not maintaine some transmigration of soules of others long since up<g ref="char:EOLhyphen"/>on earth into their bodies? And if they have <hi>Isaiahs</hi> soule, what becomes of their owne soule?</p>
+               <div type="counter-question">
+                  <head>Antiquaerie.</head>
+                  <p>It is a tedious worke for me to answer to all frivolous Quaeries; neverthelesse lest thou shouldst be wise in thy own conceit, tell mee, whether <hi>Johns</hi> comming in the spirit and power of <hi>Elias,</hi> held forth a transmigration of soules? And if it did, what became of <hi>Johns</hi> soul? Cleare but this, and thou maist easily answer thy selfe.</p>
+                  <div type="reply">
+                     <pb n="43" facs="tcp:118434:24"/>
+                     <head>Reply.</head>
+                     <p>Me thinkes it should be no tedious work to you to answer the Quaeres, for you do it as easily and idlely as may be. But O the great Knot that calls for a great wedge to rend it: <hi>John</hi> came in the spirit of <hi>Elias,</hi> in the spirit of his zeale, not with the same spirit and soule, therefore there is not to be any thoughts of any transmigrations. Sir, I have your meaning,<note place="margin">Audax &amp; im<g ref="char:EOLhyphen"/>pudens res est anima quae in<g ref="char:EOLhyphen"/>ani acre callescit. Irenae. Advers. Valentin. Haeres. <hi>l. 1. c. 9.</hi>
+                        </note> yours in their bold actions come in the spirit of <hi>Isaiah, Jeremiah, Ezekiel,</hi> &amp;c. as <hi>John</hi> did in the spirit of <hi>Elias:</hi> we believe the last, because Christ told us so, but who are you that tels us covertly the first, that yours come in the spirit of the Prophets? we see nothing of spirit or practice to yours that is like to <hi>Isaiah, Jeremiah, Ezekiel,</hi> &amp;c. but as an Artichoke is like an Oyster, well worth midsummer con<g ref="char:EOLhyphen"/>ceits: the man conceited he was sent as <hi>Isaiah,</hi> and therefore hee puts off his cloathes and stands on top of the market Crosse. If the Scripture had told us halfe so much of yours as it hath told us of <hi>John</hi> and <hi>Elias,</hi> we might have given you some hearing; you know for the one we have Divine writings, for yours, comming in the spirits of the Prophets, we have vaine janglings; yet that which I told you of transmigrations, is a patch of these times of errours, or else the resurrection of the prophets. The Adorers of <hi>John Robins,</hi> (and you with yours are very fit to be such) tell us they meet with the Apostles and Prophets upon the earth every day; and I suppose your Transers heads are full of <hi>Jolly Robins</hi> too, for they would make us believe they are Prophets, and more then Prophets too: So they are, for they are false Prophets, and if they be any thing else in their unwarranted actions, they are the false Apes of the true Prophets. Nor neede you thinke it strange I speake of transmigrations,<note place="margin">
+                           <hi>Pseudo-Christus Will. Frankland</hi> and <hi>Mary Gad<g ref="char:EOLhyphen"/>bury</hi> the Lambs wife of late in <hi>Hamshire.</hi>
+                        </note> for these monstrous last times have brought us out all kinde of prodigious follies. Have we not them that have affirmed themselves to be Christ among us? And of late yeeres doting has beene so in fashion, that divers vani<g ref="char:EOLhyphen"/>ties and blasphemies have come to view. I'le give you a touch of some,<note place="margin">
+                           <hi>Bale</hi> out of <hi>Leland. Godwin</hi> in Bi<g ref="char:EOLhyphen"/>shops Liv. in <hi>Steph. Langton</hi> of <hi>Canterbury.</hi>
+                        </note> and the Lord knowes there are many in the nature of these every day rising, and likely to rise more through the liberty of prophesying. In a Synod at <hi>Oxford</hi> there was once presented to the Bishop of <hi>Canterburie, Stephen Langton,</hi> a young man, that said he was Christ, and shewed the wounds, markes in his hands,
+<pb n="44" facs="tcp:118434:25"/> feet, side. He brought two women with him, whereof one took upon her to be the Virgin <hi>Mary,</hi> the other <hi>Mary Magdelen;</hi> but this false Christ was truly crucified and put to death for his bla<g ref="char:EOLhyphen"/>sphemy.</p>
+                     <p>
+                        <note place="margin">Guy de Bres. <hi>Mr.</hi> Baily.</note>A woman at <hi>Apezel</hi> in Switzerland, did teach, and would needs perswade a number of Anabaptists, that She was Christ the Mes<g ref="char:EOLhyphen"/>sias of the women, and she chose to her selfe twelve Apostles too.</p>
+                     <p>
+                        <hi>John Becold</hi> of <hi>Leiden</hi> (all know) gave he was appointed by God to be King over the Saints,<note place="margin">Lambertus. Hortensius.</note> and to rule by Revelations of the spirit; the Prophets they had confirmed it, and said, <hi>O behold, the Father gives thee the sword, and calls thee to be King to reigne in Sion.</hi>
+                     </p>
+                     <p>
+                        <note place="margin">John 21.22</note>Upon a willing mistake of these words, <hi>If I will that he tarry till I come;</hi> one would needes affirme <hi>John</hi> was not to die, but to live upon earth till Christ come againe,<note place="margin">Beza in Anno<g ref="char:EOLhyphen"/>tat. Major. in Ioan. Evan.</note> and he avowed himselfe to be that <hi>John,</hi> the beloved Disciple of Christ; but this false <hi>John</hi> was truly burnt at <hi>Tholous.</hi> For transmigrations, <hi>Loriottus</hi> a pro<g ref="char:EOLhyphen"/>fessor of Law at <hi>Leipsick,</hi>
+                        <note place="margin">B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>em. in Exer. Theol.</note> affirmed, that his soule heretofore dwelt in an Ape, and that after his death it would goe into a Cock.</p>
+                     <p>These are the fruits of Catabaptisme, Weigelianisme, Familisme, Seeking, Transing, alwayes passing into some strange dotages: Let but this people be attended and observed a while, and if you doe not heare of transmigrations, or worse, and higher blasphe<g ref="char:EOLhyphen"/>mies and apish follies, let me be censured by this geart Antiquae<g ref="char:EOLhyphen"/>ring <hi>Cato</hi> who I believe dare not promise, that these shall none of them run into such wild fancies, they having done pretily al<g ref="char:EOLhyphen"/>ready in that kinde. Tell us not your men must act <hi>Esay</hi> and <hi>Je<g ref="char:EOLhyphen"/>remie</hi> and the like, unlesse you can prove transmigration, or give us Scripture for it,</p>
+                  </div>
+               </div>
+            </div>
+            <div n="28" type="query">
+               <head>
+                  <hi>QƲERE</hi> XXVIII.</head>
+               <p>Whether when about <hi>Malton</hi> there are towards two or three hundred neg<g ref="char:EOLhyphen"/>lecting their callings, meeting together, old and young, to compare notes of entransed madnesse, it concernes not a Church, nay a Common-wealth, if it were no more then Pagan, to looke to it, to prevent the growth of further mis<g ref="char:EOLhyphen"/>chiefe?</p>
+               <div type="counter-question">
+                  <pb n="45" facs="tcp:118434:25"/>
+                  <head>Antiqu.</head>
+                  <p>Whether it be the spirit of Christ or Antichrist his enemy, that re<g ref="char:EOLhyphen"/>pines and rages to heare of the encrease of the number of such Disci<g ref="char:EOLhyphen"/>ples, as deny themselves of Honours, Pleasures, Riches, to follow Christ, <hi>&amp;c.</hi>
+                  </p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>Would to God they followed Christ rightly. None ever de<g ref="char:EOLhyphen"/>spised the preaching of Gospell, and Ordinances of Christ, and at the same time could be said to be followers of Christ.</p>
+                     <p>The rest of your speech is Salt-peter and Gun-powder, all spittings of reviles, as if speaking of the evill of these mens way were high persecution and Dragonisme, powring out a stoud to drowne the goodly man-child of their rare Religion.</p>
+                     <p>Amongst these, another flower of your modest oratory falls into your discourse, but as a part of your seeking Antiquaerie. Whether is not this (say you) another lie added to the former, to say that there are about <hi>Malton,</hi> two or three hundred that neglect their callings?</p>
+                     <p>In this no lie appeares, for in <hi>Malton</hi> there are many, and at <hi>Malton</hi> in the day of their Quaking Rendevousings and mee<g ref="char:EOLhyphen"/>tings, there were met together hundreds, sometimes it being a running fancy, and they meeting from divers parts there in a confluence, the East running to North and West, and sometimes they of the West running to the East. Lest this seeme strange to truth, you may be told that about <hi>Wakefield, Stanley, Holbeck, Rodwell, Kendall,</hi> they do divers times come from severall parts to make up great numbers, and I believe their callings lye in a transe, whilest they run far from home to follow these quaking Communions.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="29" type="query">
+               <pb n="46" facs="tcp:118434:26"/>
+               <head>
+                  <hi>QƲAERE</hi> XXIX.</head>
+               <p>Whether these evils at Land be not worse then the Dutch at Sea, which call on us all to call on God for reclaiming poore soules from madly running on in Satans drove, and to preserve us, ours and the Country from being left to our lusts, lies and unevangelicall liberties.</p>
+               <div type="counter-question">
+                  <head>Antiqu.</head>
+                  <p>Whether Scotch, or Dutch, Papists, or any publique enemy that would over run the Land (if they would but let the Papists keepe their Hive) be not wished by thee, rather then a swordlesse weaponless people, who are against that hire, discovering the deceit of it by Scri<g ref="char:EOLhyphen"/>pture?</p>
+                  <div type="reply">
+                     <head>Reply.</head>
+                     <p>I might well question whether you can write any thing with<g ref="char:EOLhyphen"/>out Worm-wood-water be in your Inke? or whether your book would have made one good sheete, but that railing against Mi<g ref="char:EOLhyphen"/>nisters came in every leafe abundantly?</p>
+                     <p>For Ministers hire you have beene answered before, and so has your Brother <hi>Rabshakeh, Tom Collier,</hi> b ene answered by others. You adde, if the Priests be able to defend themselves by Scri<g ref="char:EOLhyphen"/>pture against a people that use only the weapon of the Scripture, why do they cry out for help to the Magistrate? Ministers are able to defend themselves and the truth, and yet the Magistrate may be called upon to hinder tumults, pulling out of the Pulpit, interruptions of them in the Pulpit, seducing mens Wives to leave their Husbands, and the like, to the spreading of their poy<g ref="char:EOLhyphen"/>son abroad.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="30" type="query">
+               <head>
+                  <hi>QƲAERE</hi> XXX.</head>
+               <p>Whether this people, think there is any Christ, but Christ in them? And whether it be not a strange Christ that crosses his owne Gospell, Word, Practise, and Rule?</p>
+               <div type="counter-question">
+                  <head>Antiqu.</head>
+                  <p>Doe they not propound the example to thee, and the words to con<g ref="char:EOLhyphen"/>found thy hire, if thou be a Priest, doe they not tell you that Christ calls such Theeves and Robbers, who come not in by the doore? and so forth.</p>
+                  <div type="reply">
+                     <pb n="47" facs="tcp:118434:26"/>
+                     <head>Reply.</head>
+                     <p>You have beene answered to the Priests hire, whether the Quaerer be one or no; for the rest that followes it is not an<g ref="char:EOLhyphen"/>swering, but bitter quarrelling; you say thy Christ that is in thee, and then by your old figure, thy Devill that is in thee (for you say you cannot call him Christ) rages against that which is an high lesson of selfe-deniall. Doe not over-heat your selfe with a scale fire of choller. You tell of persecuting, imprisoning, stocking of Christ in them. Is reviling of Magistrates and Mi<g ref="char:EOLhyphen"/>nisters their Christ? Is other unorderly, immodest actions their Christ for which they are imprisoned? Would to God we could see more of Christ in them, and we should not complaine, or call for restraint: you have great need to repent of that word [greatly,] Thy Christ that is in thee railes against such meetings as the true Christ was conversant among. <hi>Os durum!</hi> What a bold heart is here, that writes with so bold a pen? Did ever any but this man say that the true Christ was conversant a<g ref="char:EOLhyphen"/>mong such as these, and in such meetings? For by your words you would give to understand, Christs followers whilest he was on earth were all of these Perfectioners, and yet Quakers, which are very unsuitable, perfection and quaking. Which of the Disci<g ref="char:EOLhyphen"/>ples were in transes, and spoke idlely when they came out? Which of them in their meetings cryed out of Magistrates, and Preachers, and the true Christ among them liked it?</p>
+                     <p>Now for a conclusion to your Antiquaeries, that all may know who read this, what kinde of rare <hi>Enthusiasts</hi> yours are: I shall set downe some of their opinions and tenents, which shall all be avouched from their writings by letters, and open speeches heard by many.</p>
+                     <p n="1">1. They doe hold themselves to be come into a state of per<g ref="char:EOLhyphen"/>fection, when they are regenerate into their transing way,<note place="margin">
+                           <p>Catharists. Familists. Donatists. <hi>Perfectus nemo est qui non mag<g ref="char:EOLhyphen"/>na mendacia a<g ref="char:EOLhyphen"/>pud ipsos produ<g ref="char:EOLhyphen"/>cit.</hi>
+                           </p>
+                           <p>Irenae. contra Valentin. l. 1. c. 15.</p>
+                        </note> you shall have for this, these words exactly according to one of their Letters. You make the people believe Christ hath but taken a<g ref="char:EOLhyphen"/>way part, and not all, (that is of sinne) where he speakes of perfection in part, he speakes of the growing from faith to faith, but where he speakes of the New Man, he speakes of the whole Man, redeemed wholly from the vaine conversation of the world, the Old Man being crucified and dead, and cast out, and
+<pb n="48" facs="tcp:118434:27"/> the New Man being raised, and reigning and ruling with pow<g ref="char:EOLhyphen"/>er: then the acting of sinne is taken away, as well as the guilt and punishment. Here is a Perfectionist indeed, from whom the Acting of sinne is quite taken away.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                        <note place="margin">Menandrians. Familists. Libertines.</note>Theirs letters tell us, that the Resurrection is past already. <hi>Paul</hi> called this, in <hi>Hymeneus</hi> and <hi>Phïletus,</hi> prophane and vaine babling, and that which tends to overthrow the Faith. It is a mad conceit of the Familists, when a man is converted and renewed, the Resurrection is past, the great Trumpet is already blowne.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                        <note place="margin">Familists.</note>It followes upon this, that the Resurrection being past, the day of Judgement may be in this life too. So in their letter to the Judges they write, that now is the Sonne come to Judge<g ref="char:EOLhyphen"/>ment, and the Saints shall Judge the world. The Minister at <hi>Malton</hi> was opposed by one of them after Sermon before the Congregation, and accused of false Doctrine. Being asked how the charge arose, It was answered, he had taken away the Saints prerogative, and given it to God. For the Saints are to judge the world, and your Minister tells you, that God will judge the world. This is Familisme, making Christ nothing without the Saints, and no Christ but in them.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> They commend a community of goods, and practise a living upon one another too much,<note place="margin">Catabaptists. Familists.</note> and too palpably, and urge it too far.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> They make nothing of outward teaching of the word, Bread and Wine they call a Carnall Ordinance,<note place="margin">Weigelianisme. Familisme. Zuenfieldia<g ref="char:EOLhyphen"/>nisme. Enthusiasts.</note> Baptisme and Matrimonies they call Formalities, and tell of all these spiritually, onely to be looked after, and all inwardly onely to be taught, disgracing the word as a meere letter, and bidding hearken to that which is in them, though the light that is in them may be darknesse.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> They Father all their bold and lewd speakings and doings upon the Spirit.<note place="margin">Libertines.</note> One of them having a letter railed against a Minister and his preaching grievously, with very lewd tearmes, he writ in the bottome, from the Spirit of God in such a man. He might better have said, from the Spirit of Blasphemy and bitternesse, then have fathered revilings and clamors upon Gods spirit, whose wisdome and carriage is gentle, pure and peace<g ref="char:EOLhyphen"/>able, <hi>James</hi> 3.</p>
+                     <pb n="49" facs="tcp:118434:27"/>
+                     <p>They looke for extraordinary raptures, inspirations, mira<g ref="char:EOLhyphen"/>cles, <milestone type="tcpmilestone" unit="unspecified" n="7"/> brag of miraculous healings,<note place="margin">Montanists.</note> and promise the casting of De<g ref="char:EOLhyphen"/>vills out of men and women, making all to have the Devill in them that are not their way.</p>
+                     <p>They wait for new things every day, and seeke for <milestone type="tcpmilestone" unit="unspecified" n="8"/> strange things as ever were among Prophets or Apo<g ref="char:EOLhyphen"/>stles.<note place="margin">Seekers.</note>
+                     </p>
+                     <p>Applauded is by them the liberty of Prophesying, and what <milestone type="tcpmilestone" unit="unspecified" n="9"/> comes into their heads is all Spirit and Prophecy. Men, women,<note place="margin">
+                           <hi>Iude</hi>'s filthy dreamers, Socinians.</note> boyes and girles, may all turne into Prophets and Preachers by Quaking, and all other Preachers and Ministers are but deluders and without calling.</p>
+                     <p>Too much are they addicted to conversing with women, <milestone type="tcpmilestone" unit="unspecified" n="10"/> and setting on them, to seduce them and teach them all pranks,<note place="margin">Carpocratians. Valentinians. <hi>Iren. l.</hi> 1. <hi>cap.</hi> 24.</note> as being fittest to draw on others, after the manner of them in Apostles times, leading Captives silly women, and after the manner of <hi>Valentinians</hi> drawing women from their husbands, having some kinde of <hi>philtra &amp; charitesia,</hi> to that purpose, in<g ref="char:EOLhyphen"/>ticings to love and follow them.</p>
+                     <p>Imaginations have they of great liberty and freedome, <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                        <note place="margin">Monasterian Anabaptists. <hi>Liberi,</hi> the free Anabaptists.</note> that none should say or doe any thing by way of Rule or Com<g ref="char:EOLhyphen"/>mand. Hence are cryed down Magistrates &amp; Ministers as unlaw<g ref="char:EOLhyphen"/>full callings, that they may onely Magistrate it, and Minister all things themselves. <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+                     </p>
+                     <p>Ministers to have no maintenance,<note place="margin">Anabaptists in Common. An<g ref="char:EOLhyphen"/>tiscripturists.</note> not to preach upon Texts, though Scriptures tell us of both.</p>
+                     <p>If their supposed spirit stir them up to it, nakednesse <milestone type="tcpmilestone" unit="unspecified" n="13"/> and other obscenities may be used, and all good,<note place="margin">Tending to Adamites, Libertines, Enthusiasts.</note> by the will of the Father, and command of G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d upon them.</p>
+                     <p>A leaving all and running about to preach and cry out in Streets, Markets, House tops, every one that will, imagining he is called to it. <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+                     </p>
+                     <p>Thoughts that they onely are the people of God,<note place="margin">Apostolick Anabaptists.</note> and his <hi>Israel;</hi> and all others like <hi>Canaanites</hi> must be destroyed and roo<g ref="char:EOLhyphen"/>ted <milestone type="tcpmilestone" unit="unspecified" n="15"/> out by them.<note place="margin">Huttite Ana<g ref="char:EOLhyphen"/>baptists.</note>
+                     </p>
+                     <p>Regeneration and new birth is their Christ, justification, san<g ref="char:EOLhyphen"/>ctification, perfection, all. All is confounded with and in this, <milestone type="tcpmilestone" unit="unspecified" n="16"/> Christ without them is little minded,<note place="margin">Papists, Fami<g ref="char:EOLhyphen"/>lists, Libertines</note> this is that which states
+<pb n="50" facs="tcp:118434:28"/> them in innocency in a sort, and being regenerate and denying themselves, they may doe any thing, for it is Christ in them, which is a kind of Popery to be justified by grace in us. If they sinne, it is not they but the fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sh, or as the <hi>Libertines</hi> said, it was their Asse that did it,<note place="margin">Calvin. contra Libertin. <hi>c. 18.</hi>
+                        </note> their outward man.</p>
+                     <p>These all, and many more then these may be drawne from their letters written, their speeches, and principles, without straining of consequences. More might be mentioned, but their owne writings and doings will in a short time more lay them open.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <p>FOr the Antiquerers answering of Scripture, he first gives answer to this Scripture, 1 <hi>Cor.</hi> 6.5.</p>
+               <p>His answer is plaine scolding with and reviling the Mini<g ref="char:EOLhyphen"/>stery.</p>
+               <p>The Reply I make is this. The Lord either teach him patience or rebuke him, for setting himselfe against Ordinances of God: For Ministers maintenance is Gods Ordinance. The Lord hath ordained that they which preach the Gospell,<note place="margin">1 Cor. 9.14.</note> should live of the Gospell.</p>
+               <div type="section">
+                  <head>The next Scripture he answers is this, <hi>1 Cor. 14.33.</hi>
+                  </head>
+                  <p>There he tells us their peoples speaking in the Assembly is not Confusion but Order, by that Scripture, 1 <hi>Cor.</hi> 14.30, 31. <hi>If any thing be revealed to another that sitteth by, let the first hold his peace. For ye may all prophesie one by one, that all may learne and all may be comforted.</hi> To this Scripture he brings, I bring this a true and full answer.</p>
+                  <p>The Chu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch of the <hi>Corinthians</hi> had such rare gifts of prophesie, miracles, tongues, that many besides him that first began to teach had the Spirit in an excellent manner inspiring them, that they were inabled to prophesie also. Let these tell and shew us for a truth, that their men and women that stand up and speak in the Assembly have the Spirit of God extraordinarily inspiring them, with rare gifts furnishing them, and then they may have
+<pb n="51" facs="tcp:118434:28"/> leave to speake in order. But now they let us see no extraordi<g ref="char:EOLhyphen"/>nary gifts but extraordinary boldnesse, they speake no Prophe<g ref="char:EOLhyphen"/>sies, but revilings and cursed language against Prophets and Preachers, and so this Scripture leaves them naked and will not cloth or cover them.</p>
+                  <p>For these to stand up one, two or three together, absurdly to vent their owne vanities, without either inspiration or order, is meere confusion, and to say they speake by the spirit, thus speaking is blasphemy.</p>
+               </div>
+               <div type="section">
+                  <head>Another Scripture is, <hi>1 Cor. 14.34, 35.</hi> About womens silence in the Churches.</head>
+                  <p>Our great Antiquerer answers it quickly, that women are not excluded from speaking at all meetings, because of that Scripture, 1 <hi>Cor.</hi> 11.5. <hi>Every woman that prayeth or prophesieth with her head uncovered, dishonoureth her head.</hi> And then he addes that of <hi>Joel,</hi> the promise of the spirit to Daughters as well as Sonnes.</p>
+                  <p>To this that he objects, of a woman praying or Prophesying <milestone type="tcpmilestone" unit="unspecified" n="1"/> with her head uncovered, is answered satisfactorily to as learned as the Antiquerer, that the womans Prophesying is the joyning in heart and minde to follow and attend him that Prophesies, but not openly to Prophesie as one performing an office in the Church, because even very women that had not the gift of Prophesie, were not to speake publickely in the Church, by that plaine prohibition of the Apostle, 1 <hi>Cor.</hi> 14.34, 35. 1 <hi>Tim.</hi> 2.12.</p>
+                  <p>Or Secondly, which some rather cleave to, the womans <milestone type="tcpmilestone" unit="unspecified" n="2"/> Prophesying in the Church, is the joyning with the Congregation in praising God by Psalmes and Hymnes.</p>
+                  <p>Scripture thus calls the praising of God by Musick and Psalms Prophesying. Three times is Musicall singing called Prophesying, 1 <hi>Chron.</hi> 25.1, 2, 3. And when <hi>Saul</hi> was chosen to be King,<note place="margin">1 Chron. 25.1, 2, 3. 1 Sam. 10.5. &amp; 10.</note> we finde he meets with Prophets with Psaltery, Tabret, Pipe, Harpe, and he Prophesied with them, that is, he sang with them.</p>
+                  <p>For Daughters Prophesying as well as Sonnes, unlesse you can apply it better then <hi>Peter,</hi>
+                     <note place="margin">Acts 2:</note> it was fulfilled presently after
+<pb n="52" facs="tcp:118434:29"/> Christs Ascension into Heaven, when all the multitude of be<g ref="char:EOLhyphen"/>leevers spoke with divers tongues. Whereas he writes, if they Prophesie, shall they speake to the walls or to people about them? I answer, first let us be sure that they Prophesie, and then we shall tell you where they may speake, or the Apostle will tell you, <hi>though they Prophesie, yet they are to be silent in the Church.</hi> 1 <hi>Cor.</hi> 14. withall, I could tell you that the knowledge of be<g ref="char:EOLhyphen"/>leevers in the New Testament, as handmaids, and Servants, Sons and Daughter, is called by the highest name of knowledge in the Old Testament, Visions, Dreames, Prophesies, to shew that the knowledge of God shall very much abound in last times, and yet not constitute them publique Prophets, and put them in office.</p>
+               </div>
+               <div type="section">
+                  <head>Last Scripture is, <hi>2 Thes. 3.6. &amp; 11, 12.</hi> Against disorderlinesse.</head>
+                  <p>To this the Antiquaerer answers, with disorder and railing, and he is there left to his owne humour. You excuse the Transers, and retort and returne busie medlings upon the Ministers, whom you are pleased to name Hirelings, and you are their paymaster, though you be not called upon to it, for such as you have, you give them, even bitter words, and the birth of malicious lips and heart. You close up all with 8. Queries, returned to the first Quaerer.</p>
+               </div>
+               <div n="1" type="query">
+                  <head>QUAERE <hi>I.</hi>
+                  </head>
+                  <p>
+                     <hi>Your first Quaere is.</hi> Whether the Quaerer be not acted by a carnall spirit contrary to Pauls, who saith, the weapons of our warfare are not carnall? but the Quaerer cries aloud for the carnall weapons of the magistrate to subdue a peaceable, harmlesse people.</p>
+                  <div type="answer">
+                     <head>Answer.</head>
+                     <p>To this you have had answer before, Magistrates are called upon to suppresse and restraine their riots,<note place="margin">In the Apo<g ref="char:EOLhyphen"/>stles time there were no Chri<g ref="char:EOLhyphen"/>stian Magi<g ref="char:EOLhyphen"/>strates to call upon.</note> disorders, Sabbath-breakings, pullings out of Pulpit, drawing mens wives and chil<g ref="char:EOLhyphen"/>dren from them, and you shall finde <hi>Paul</hi> appealing to the Ma<g ref="char:EOLhyphen"/>gistrates often, in the <hi>Acts</hi> of the Apostles in case of defence, and saving him from conspiracies, unjust and violent tumults. He sends to the chiefe Captaine, <hi>Acts</hi> 23.17, 18, 19, 20, 21, 22, 23. withall he appeals to <hi>Caesar.</hi>
+                     </p>
+                     <pb n="53" facs="tcp:118434:29"/>
+                     <p>There are two other Quaeries I shall answer to, and we will put up the rest in the Advocates black boxe of slanders and bitter revilings.</p>
+                  </div>
+               </div>
+               <div n="2" type="query">
+                  <head>QUAERE <hi>II.</hi>
+                  </head>
+                  <p>
+                     <hi>Your second Quaere is,</hi> If this people were Tares ready to choake the wheat, yet whether doth not his counsell contradict the counsell of Christ, <hi>Math. 13.29, 30.</hi> where he saith, <hi>let both grow together untill the harvest, lest you pluck up the wheat with them?</hi>
+                  </p>
+                  <div type="answer">
+                     <head>Answer.</head>
+                     <p>I knew whither you would run in the end to the Parable of Tares, which is the Sanctuary of Sectaries: But Sir,<note place="margin">Asylam Secta<g ref="char:EOLhyphen"/>rum parabola Zizaniorum.</note> I must pluck you from the hornes of this Altar. This is the great Text for L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>berty, as is conceived by Libertines, <hi>Nebuchadnezzars</hi> great Tree in the dreame,<note place="margin">Dan. 4.12.</note> (and these dreame on it too) <hi>the leaves whereof are faire, and the fruit much, the Beasts of the field shadow under it.</hi>
+                     </p>
+                     <p>I shall manifest the weaknesse of this, to prove the Toleration of all intolerable Heresies.</p>
+                     <p n="1">1. It is a parable, and so the scope of it is to be taken, and every part of it is not to be made an argument. Now the scope of it is this, not to bridle Magistrates, but to moderate and order the forward zeale of Christs Disciples, and all holy ones to the end of the world; not to be too hasty, nor murmuring and repining at Divine Providence, because the wicked and un<g ref="char:EOLhyphen"/>holy grow up and flourish in the earth with the godly, and be<g ref="char:EOLhyphen"/>cause they are not all presently destroyed, remembring this, though men cannot do it in this day, yet there shall be a perfect riddance of them at the last day. They may doe their endea<g ref="char:EOLhyphen"/>vour, and quietly leave the rest to God.</p>
+                     <p n="2">2. This is not spoken onely of Hereticks and false teachers, but all the children of the wicked one are Tares, in any kind of continued in ungodlinesse. All things that offend, and them that doe equity, are the Tares gathered for the everlasting fire.<note place="margin">Mat. 13.38.41.</note> Now Drunkards, Murderers, Adulterers, &amp;c. are Tares, and that offend as well as Hereticks and false Doctors. And if <hi>Let them alone</hi> be given as a command to Magistrates and all men till the last day, by this our great Bible Scholiast, then marke what sa<g ref="char:EOLhyphen"/>vourie
+<pb n="54" facs="tcp:118434:30"/> doctrine he gives Magistrates, they must let Traitors, Theeves, Murderers, all ungodly persons alone till the day of judgement, for they are Tares, children of the wicked one, offend▪ and doe iniquity.</p>
+                     <p n="3">3. This <hi>let them alone</hi> is not simply and absolutely to let them alone, but onely respectively to danger arising to the good in the too much punishing the evill. When there may be hurt to the wheat by plucking up the Tares, then it were better to let them alone, when the godly may be in danger to perish with the wicked.</p>
+                     <p n="4">4. It is not meant of Church and Doctrines that are false onely, but our Saviour expounds the field to be the world, and not the Church, and so all ungodlinesse in the world is to be let alone till the day of Judgement, if this be a com<g ref="char:EOLhyphen"/>mand.</p>
+                     <p n="5">5. But <hi>let them alone</hi> is no command, but an inhibition of our Saviours of too much fiercenesse of spirit, or preposterous zeale, discontented that all is not pure and holy. For all this, Magistrates may punish, Ministers may rebuke, there may be excommunication, and Ecclesiasticall plucking up, and casting out of Tares before the last day, and this forbids it not. It is well observed by the learned <hi>Camero,</hi> that the Anabaptists, that the most fly to this Text, to clip the wings of Magistrates, which is not the scope of Christ, they themselves cast by this Text in their practice,<note place="margin">Camero in My<g ref="char:EOLhyphen"/>rothec. Evangel.</note> and are very earnest pluckers up of those they count Tares, and have the most direfull excom<g ref="char:EOLhyphen"/>munications to cast out of their Church of any o<g ref="char:EOLhyphen"/>ther.</p>
+                     <p n="6">6. Lastly, Christ expounds not these words, <hi>let them grow till the Harvest,</hi> telling us his meaning is, we should tolerate all sins and sinners till the last day, for then I conceive he should contradict himselfe, and be of another minde in heaven then he was in upon earth. For from heaven he hath declared himselfe to be against the toleration and letting alone of such as vent doctrines erroneous, contrary to the Gospell. To the Angell of the Church of <hi>Ephesus</hi> Christ bids write, <hi>I know thy works, and thy labour,</hi>
+                        <note place="margin">Revel. 2.2.</note>
+                        <hi>and thy patience, and how thou canst not beare them which are evill, and thou hast tryed them, which say
+<pb n="55" facs="tcp:118434:30"/> they are Apostles and are not, and hast found them lyars.</hi> Againe, <hi>this thou hast,</hi>
+                        <note place="margin">Revel. 2.20.</note>
+                        <hi>that thou hatest the deeds of the Nico<g ref="char:EOLhyphen"/>laitans which I also hate.</hi> To the Church of <hi>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>atira, I have a few things against thee, because thou sufferest that woman Jezebell, which calleth her sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e a Prophetesse, to teach and to seduce my Servants, to commit Fornication, and to eate things sacrificed to Idolls.</hi>— He doth not say, I am against thee, because thou wilt not let these false teachers, false men Pro<g ref="char:EOLhyphen"/>phets, false women Prophetesses, goe and Transe, seduce, deceive soules, which thou should suffer in this world, and let the day of judgement try them. No, he saith, <hi>I have a few things against thee, because thou dost suffer them.</hi> Either you in alledging the parable of Tares, contradict the sense and mean<g ref="char:EOLhyphen"/>ing of Christ there: or else you make Christ to contradict himselfe here, choose whether you will, you abuse Jesus Christ. The Lord give you a better seeing eye, and a more un<g ref="char:EOLhyphen"/>derstanding heart.</p>
+                  </div>
+               </div>
+               <div n="3" type="query">
+                  <head>QUAERE <hi>III.</hi>
+                  </head>
+                  <p>The third Quaerie of our Antiquaerers is this, <hi>Whether Gama<g ref="char:EOLhyphen"/>liel or this man gave better Counsell, Act.</hi> 5.34, 35, 36, 38, 39. <hi>Where Gamaliel said,</hi> let them alone, if it be not of God, it will come to nought, <hi>but this man saith, move the Magi<g ref="char:EOLhyphen"/>strate to subdue them?</hi>
+                  </p>
+                  <div type="answer">
+                     <head>Answer.</head>
+                     <p>
+                        <hi>Gamaliel</hi> was a Doctor of the Law, but he pleads very poorely here, as the Antiquering advocate doth. Since you wait for an answer to your Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aere, hold you, there it is. The Quaerer gave better counsell, more wisely: <hi>Gamaliel</hi> spoke unsoundly and sillily. I see one weake Advocate admires another, I wish better pleaders for me, then either of these two Doctors, when I have a cause in hand.</p>
+                     <p n="1">1. For your satisfaction further, lo, you shall see pure Gama<g ref="char:EOLhyphen"/>lielisme, that is, poore Logick, and poorer Law. I grant you that God did good by this speech of his, the Lord making use of it as a moderare speech with some cold water in it, to mitigate the flame and rage of the Councell, and High Priest, that they fell not upon sentencing the Apostles to death, by their Law against false Prophets and seducers, as they were for<g ref="char:EOLhyphen"/>ward
+<pb n="56" facs="tcp:118434:31"/> enough, but that this man of gravity cryed to them, Walke soberlie, be not too hasty, take heede what you doe.</p>
+                     <p n="2">2. Yet I must tell you againe, his moderation is urged with very weake Arguments. <hi>If this Counsell or worke be of men, it will come to nought: if it be of God, ye cannot overthrow it.</hi> Alas he was ignorant, and spake doubtfully, with an <hi>If it be of God,</hi> of the Gospell of Jesus Christ, he spoke like an unbeleever. <hi>If it be of men,</hi> what need he say so, when he had heard of such a Birth, such a Life, such Miracles, such Holinesse, such a Death, such a Resurrection, Ascension of Christ, such holy lives, such rare teaching, great miracles and gifts of the Apostles, as might put him beyond Ifs and Hypotheticalls too, It is not of Men, this is above Man, it is all Divine.</p>
+                     <p n="3">3. With this reasoning, you and <hi>Gamaliel</hi> may say, let Traitors, let Witches, let Adulterers, let all abominable wicked practises alone, let Magistrates meddle with none of them, and salve all with a We shall see in the end whether they be of God or no. In the meane time it seemes Magistrates and Ministers must doe nothing in their office towards reproving, restraining of Heresie, or open wickednesse, but all must turne Seekers and Waiters, and by the event they waite to see, they must judge by perishing or prospering, whether the thing be of God or no. I thought by the word of God we might judge of things whether they be of God or no, better then by events.</p>
+                     <p n="4">4. <hi>Gamaliel</hi> and you, that seeme to have beene brought up at his feet, would have the Counsell, and so you would have all Christian Magistrates and Ministers to turne Neuters to the Go<g ref="char:EOLhyphen"/>spell, that is, Seekers: Neither make nor meddle with it, nor trouble our selves with what is against it, neither prove and try any things that are against the Gospell, nor reprove them, but wait for God, and commit all without meanes and mediate re<g ref="char:EOLhyphen"/>dresses, to immediate providence.—No Sir, we are at a point with you, we know there is but one Gospell. With that know<g ref="char:EOLhyphen"/>ledge of Jesus Christ we have in the Scriptures, we can tread over a thousand of your Ifs, and turne your If backward, and say, Fy upon all lying vanities, I hate vaine inventions, but thy Law
+<pb n="57" facs="tcp:118434:31"/> doe I love. We know in whom we have beleeeved, that without <hi>if</hi> or <hi>and,</hi> the preaching of the Gospell, and embracing of it is the counsell of Jesus Christ, and must stand to the end of the world. Yea without if or and, against old or young Gamaliels, Scepticks or Seekers, we are sure that the way of your common Enthusiasmes, unordinancing of Soules, leaving of Callings, rai<g ref="char:EOLhyphen"/>ling of the Gospell Magistracy, Gospell Ministery is of man, and will in the end come to naught. Yet is it the duty of the people of God to pray against it, act against it, in restraining, reproving and spreading of these Cankers and deadly evills.</p>
+                     <p rend="indent">The rest of your Queries you may put among slanders and evill speeches.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:118434:32"/>
+            <head>A POST-SCRIPT IN Behalfe of the QUERER.</head>
+            <p>THe Antiquaerer findes fault in his Postscript, his Booke was not printed by him that printed the Quaeries, which is nothing to the Quaerer, but should be borne with by you, for why may not the Printer use the just Liberty of Consci<g ref="char:EOLhyphen"/>ence in this, to choose to print Truth, and refuse to print Errors? So far as I can finde the Quaerer hindred him not. Whereas you boast, the Quaerer set not his name, there<g ref="char:EOLhyphen"/>fore doe not you: Truly to that I could well answer, it was a small thing, and he affected not to make himselfe knowne in this. Besides, it may be he would not take your word, that that people are of so harmlesse and innocent behaviour, but however as you have wisely concealed your name, and so let him if he will reason the case with you for his concealement. He intended no quarrell, but fair warning to take heed of Seducers. Sir, when you write, revile not, I have abstained from it all along, and have chose rather to be quick and pleasant with you, and shew you your weak<g ref="char:EOLhyphen"/>nesse, rather then shew you my malice. If at any time you judge I have beene sharpe with a soft Scaberd, remember how you struck and laid about you with a naked sword. And so <hi>Philalethes</hi> bids farewell to <hi>Philodoxus.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:118434:32"/>
+            <head>Faults escaped, correct thus.</head>
+            <p>EPist. p. 2. l. 17. r. <hi>for their opinions.</hi> p. 6. l. 2. r. <hi>not a word.</hi> p. 12. in the beginning of the Antiquer. r. <hi>whether doth not Christ.</hi> p. 14. l. 9. r. <hi>roving.</hi> p. 18. l. 17. r. <hi>Elimas.</hi> ibid. l. 21. r. <hi>Elimas,</hi> because: ibid. l. 25. r. <hi>heare tell.</hi> p. 20. Marg. l. 26. r. <hi>take not upon.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
